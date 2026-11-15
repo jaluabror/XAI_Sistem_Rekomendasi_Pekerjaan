@@ -1,0 +1,292 @@
+{
+  "mata_kuliah": "Manajemen Data Enterprise",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT Policy & Governance",
+      "company": "PT Mandiri Utama Finance",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 21.91,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "togaf",
+        "cobit"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Engineer",
+      "company": "PT Murni Development Indonesia",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 20.22,
+      "job_kw_count": 10,
+      "probabilitas": 91.57,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.06,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "scala",
+        "sql",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "IT Data Privacy & Information Security Officer",
+      "company": "PT CIMB Niaga Auto Finance",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 18.4,
+      "job_kw_count": 10,
+      "probabilitas": 86.28,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.96,
+      "job_kw_count": 10,
+      "probabilitas": 85.0,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.15,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Governance Oficer",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.05,
+      "job_kw_count": 10,
+      "probabilitas": 79.44,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Data Analyst Staff",
+      "company": "PT Lintas Semesta",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 15.83,
+      "job_kw_count": 9,
+      "probabilitas": 76.8,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Solution Architecture (Financial Services)",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.08,
+      "job_kw_count": 10,
+      "probabilitas": 73.72,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "aws",
+        "gcp",
+        "azure",
+        "cloud",
+        "docker"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "DATA ANALYST",
+      "company": "PT Asuransi Jiwa Syariah Al Amin",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.02,
+      "job_kw_count": 10,
+      "probabilitas": 70.62,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.14,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "mysql",
+        "postgresql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "GRC Specialist",
+      "company": "PT Solusi Identitas Global Net",
+      "location": "Sidoarjo, Jawa Timur",
+      "loc_tier": 0,
+      "similarity": 16.27,
+      "job_kw_count": 10,
+      "probabilitas": 70.08,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 0.6,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "devops"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Project Manager – Data & Analytics",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.29,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "data science",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 2,
+      "data_engineer": 2,
+      "manager": 2,
+      "analyst": 2,
+      "consultant": 2
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 3
+      },
+      {
+        "skill": "mysql",
+        "freq": 3
+      },
+      {
+        "skill": "postgresql",
+        "freq": 3
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      },
+      {
+        "skill": "cloud",
+        "freq": 3
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

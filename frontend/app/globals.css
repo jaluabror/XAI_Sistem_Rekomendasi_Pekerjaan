@@ -1,0 +1,11 @@
+/* frontend/app/globals.css */
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #F5F7FA !important;
+    color: #0F172A;
+    font-family: 'Inter', -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "mata_kuliah": "RPS PBO",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Java Developer",
+      "company": "PT Intikom Berlian Mustika - Talent Acquisition",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 22.27,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "java",
+        "pemrograman"
+      ],
+      "match_pct": 2.56,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "java"
+      ],
+      "skill_gap": [
+        "spring",
+        "cloud",
+        "kubernetes",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Mobile Developer",
+      "company": "PT Neuronworks Indonesia",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 18.15,
+      "job_kw_count": 10,
+      "probabilitas": 78.07,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "java",
+        "pemrograman"
+      ],
+      "match_pct": 3.45,
+      "coverage_score": 22.22,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "java",
+        "programming"
+      ],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "flutter",
+        "html",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "IT Programmer",
+      "company": "Corporate",
+      "location": "Medan, Sumatera Utara",
+      "loc_tier": 2,
+      "similarity": 17.86,
+      "job_kw_count": 10,
+      "probabilitas": 76.77,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 1.89,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Data Engineer",
+      "company": "PT Murni Development Indonesia",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.83,
+      "job_kw_count": 10,
+      "probabilitas": 76.64,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar",
+        "java",
+        "pemrograman"
+      ],
+      "match_pct": 2.7,
+      "coverage_score": 7.69,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "java"
+      ],
+      "skill_gap": [
+        "python",
+        "scala",
+        "sql",
+        "mysql",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "SAP ABAP Bootcamp",
+      "company": "PT Astra Graphia Information Technology (AGIT)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.7,
+      "job_kw_count": 10,
+      "probabilitas": 71.56,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar",
+        "java",
+        "pemrograman"
+      ],
+      "match_pct": 3.09,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "java",
+        "programming"
+      ],
+      "skill_gap": [
+        "python",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Junior Software Engineer - Jakarta (WFO) -  Banking Industry",
+      "company": "Toffee Dev",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.14,
+      "job_kw_count": 10,
+      "probabilitas": 69.08,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "berorientasi",
+        "dasar",
+        "java",
+        "pemrograman"
+      ],
+      "match_pct": 3.57,
+      "coverage_score": 6.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "java"
+      ],
+      "skill_gap": [
+        "python",
+        "php",
+        "kotlin",
+        "swift",
+        "golang"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "IOT Engineer",
+      "company": "PT. Lantabura Media",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 16.99,
+      "job_kw_count": 10,
+      "probabilitas": 67.85,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar",
+        "pemrograman"
+      ],
+      "match_pct": 2.9,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "data science"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "UX Writer",
+      "company": "PT. Entrepreneur Trust Digital",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.01,
+      "job_kw_count": 7,
+      "probabilitas": 62.5,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.14,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Fresh Graduate AI Prompter",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.58,
+      "job_kw_count": 5,
+      "probabilitas": 61.03,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar",
+        "output"
+      ],
+      "match_pct": 4.26,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "R&D Software Engineer",
+      "company": "PT Solusi Pembayaran Elektronik",
+      "location": "Cipondoh, Banten",
+      "loc_tier": 0,
+      "similarity": 16.4,
+      "job_kw_count": 10,
+      "probabilitas": 60.23,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar",
+        "java",
+        "pemrograman"
+      ],
+      "match_pct": 3.57,
+      "coverage_score": 4.35,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "java"
+      ],
+      "skill_gap": [
+        "python",
+        "php",
+        "golang",
+        "django",
+        "laravel"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 11.09,
+    "role_distribution": {
+      "developer": 6,
+      "mobile_developer": 1,
+      "data_engineer": 1,
+      "designer": 1,
+      "prompter": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "python",
+        "freq": 6
+      },
+      {
+        "skill": "spring",
+        "freq": 3
+      },
+      {
+        "skill": "cloud",
+        "freq": 3
+      },
+      {
+        "skill": "php",
+        "freq": 3
+      },
+      {
+        "skill": "sql",
+        "freq": 3
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "java",
+        "freq": 6
+      },
+      {
+        "skill": "programming",
+        "freq": 2
+      }
+    ],
+    "top_n": 10
+  }
+}

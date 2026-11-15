@@ -1,0 +1,292 @@
+{
+  "mata_kuliah": "Bahasa Inggris II",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Data Analyst – Relaxology & Wellness",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.45,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.83,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Database & Documents Control Staff",
+      "company": "PT Nico Urban Indonesia",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.01,
+      "job_kw_count": 8,
+      "probabilitas": 87.49,
+      "ebm_sim_bobot": 97.23,
+      "ebm_kw_bobot": 2.54,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Business Intelligence Developer - Multifinance Industry",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.84,
+      "job_kw_count": 10,
+      "probabilitas": 77.95,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "programming",
+        "sql",
+        "postgresql",
+        "pandas"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Junior Web Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.8,
+      "job_kw_count": 10,
+      "probabilitas": 77.49,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "react",
+        "angular",
+        "vue",
+        "laravel",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Web Developer (Laravel)",
+      "company": "Dupe Perfume",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 9.72,
+      "job_kw_count": 10,
+      "probabilitas": 76.54,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "laravel",
+        "mysql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Computer Vision Engineer (C/C++)",
+      "company": "PT Alfabeta Solusi Nusantara",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.58,
+      "job_kw_count": 10,
+      "probabilitas": 75.0,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.01,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "golang",
+        "nodejs",
+        "ruby",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "BI Engineer for Multifinance Industry",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.46,
+      "job_kw_count": 10,
+      "probabilitas": 73.54,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data mining",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Mobile Developer (Flutter)",
+      "company": "nan",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.69,
+      "job_kw_count": 7,
+      "probabilitas": 70.22,
+      "ebm_sim_bobot": 99.05,
+      "ebm_kw_bobot": 0.71,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "kotlin",
+        "flutter",
+        "git",
+        "rest api",
+        "android"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Surabaya Wordpress Page Developer + Backend Programmer",
+      "company": "PT Ciptadaya Prosperindo",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 9.02,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.74,
+      "ebm_kw_bobot": 8.04,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "mysql",
+        "html",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "SALES",
+      "company": "PT Solusi Prima Informatika",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.67,
+      "job_kw_count": 4,
+      "probabilitas": 63.93,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 7,
+      "analyst": 1,
+      "data_scientist": 1,
+      "mobile_developer": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 5
+      },
+      {
+        "skill": "mysql",
+        "freq": 4
+      },
+      {
+        "skill": "postgresql",
+        "freq": 3
+      },
+      {
+        "skill": "git",
+        "freq": 3
+      },
+      {
+        "skill": "python",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

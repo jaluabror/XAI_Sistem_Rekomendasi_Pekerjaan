@@ -1,0 +1,337 @@
+{
+  "mata_kuliah": "JARINGAN KOMPUTER",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT Support",
+      "company": "PT Mulia Inti Pangan",
+      "location": "Semarang, Jawa Tengah",
+      "similarity": 14.85,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 500.0,
+      "composite_score": 0.2079,
+      "ebm_sim_bobot": 97.31,
+      "ebm_kw_bobot": 2.69,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan",
+        "network"
+      ],
+      "match_pct": 3.92,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "linux"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Middle Web Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "similarity": 14.06,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "composite_score": 0.1969,
+      "ebm_sim_bobot": 97.31,
+      "ebm_kw_bobot": 2.69,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "layer"
+      ],
+      "match_pct": 2.86,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "redis",
+        "docker",
+        "devops",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Engineer on Site",
+      "company": "PT Mitra Karsa Utama",
+      "location": "Balikpapan, Kalimantan Timur",
+      "similarity": 10.99,
+      "job_kw_count": 5,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1649,
+      "ebm_sim_bobot": 94.42,
+      "ebm_kw_bobot": 5.58,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "layer",
+        "network",
+        "physical"
+      ],
+      "match_pct": 2.03,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT Staff",
+      "company": "PT PELANGI BAHAGIA INDONESIA",
+      "location": "Denpasar, Bali",
+      "similarity": 10.36,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "composite_score": 0.145,
+      "ebm_sim_bobot": 95.88,
+      "ebm_kw_bobot": 4.12,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan",
+        "network"
+      ],
+      "match_pct": 1.79,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "networking"
+      ],
+      "skill_gap": [
+        "database",
+        "firewall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Superintendent IT",
+      "company": "PT Adhi Kartiko Pratama, Tbk",
+      "location": "Sulawesi Tenggara",
+      "similarity": 9.82,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "composite_score": 0.1374,
+      "ebm_sim_bobot": 95.65,
+      "ebm_kw_bobot": 4.35,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan",
+        "network",
+        "physical"
+      ],
+      "match_pct": 2.54,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [
+        "database",
+        "cisco",
+        "mikrotik",
+        "project management"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Supervisor",
+      "company": "PT Sebuku Iron Lateritic Ores",
+      "location": "Pulau Sebuku, Kalimantan Selatan",
+      "similarity": 9.06,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 250.0,
+      "composite_score": 0.1269,
+      "ebm_sim_bobot": 95.26,
+      "ebm_kw_bobot": 4.74,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan"
+      ],
+      "match_pct": 3.12,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "networking",
+        "erp"
+      ],
+      "skill_gap": [
+        "database",
+        "firewall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "IT Security & Support Officer",
+      "company": "Medics8",
+      "location": "Tebet, Jakarta Raya",
+      "similarity": 9.04,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 500.0,
+      "composite_score": 0.1266,
+      "ebm_sim_bobot": 95.26,
+      "ebm_kw_bobot": 4.74,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan",
+        "network"
+      ],
+      "match_pct": 2.3,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "firewall",
+        "mikrotik",
+        "cybersecurity"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "IT Programmer Cianjur",
+      "company": "PT Duta Cendana Adimandiri",
+      "location": "Cianjur, Jawa Barat",
+      "similarity": 8.99,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1258,
+      "ebm_sim_bobot": 95.26,
+      "ebm_kw_bobot": 4.74,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan"
+      ],
+      "match_pct": 1.41,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "javascript",
+        "php",
+        "react"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Network Engineer",
+      "company": "PT IDX Solusi Teknologi Informasi",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "similarity": 8.83,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "composite_score": 0.1236,
+      "ebm_sim_bobot": 95.05,
+      "ebm_kw_bobot": 4.95,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "layer",
+        "network",
+        "physical"
+      ],
+      "match_pct": 1.83,
+      "coverage_score": 11.11,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "networking"
+      ],
+      "skill_gap": [
+        "aws",
+        "cloud",
+        "linux",
+        "firewall",
+        "cisco"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "IT Support Staff",
+      "company": "PT Leon Boga Sentosa",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "similarity": 8.52,
+      "job_kw_count": 5,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 200.0,
+      "composite_score": 0.1277,
+      "ebm_sim_bobot": 92.68,
+      "ebm_kw_bobot": 7.32,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "jaringan",
+        "network"
+      ],
+      "match_pct": 2.06,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "php",
+        "mysql",
+        "database",
+        "cloud",
+        "linux"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 11.44,
+    "role_distribution": {
+      "support": 5,
+      "developer": 4,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 7
+      },
+      {
+        "skill": "firewall",
+        "freq": 5
+      },
+      {
+        "skill": "linux",
+        "freq": 3
+      },
+      {
+        "skill": "mikrotik",
+        "freq": 3
+      },
+      {
+        "skill": "cisco",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "networking",
+        "freq": 3
+      },
+      {
+        "skill": "erp",
+        "freq": 2
+      }
+    ],
+    "top_n": 10
+  }
+}

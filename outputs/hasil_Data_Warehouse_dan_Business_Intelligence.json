@@ -1,0 +1,308 @@
+{
+  "mata_kuliah": "Data Warehouse dan Business Intelligence",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Dashboard Engineer",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.39,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 0.99,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "azure",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Analyst",
+      "company": "PT Rama Putra Djaya",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.44,
+      "job_kw_count": 10,
+      "probabilitas": 89.68,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 16.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "tableau"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "sql",
+        "machine learning",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Business Intelligence (Multifinance Industry)",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.39,
+      "job_kw_count": 10,
+      "probabilitas": 82.1,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "tableau"
+      ],
+      "skill_gap": [
+        "python",
+        "programming",
+        "sql",
+        "postgresql",
+        "pandas"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Data Analyst",
+      "company": "PT Adibayu Gajah Semakmur",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 16.61,
+      "job_kw_count": 10,
+      "probabilitas": 78.72,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "tableau"
+      ],
+      "skill_gap": [
+        "python",
+        "sql",
+        "database",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Senior Business Analyst",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 16.45,
+      "job_kw_count": 8,
+      "probabilitas": 78.54,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 3.45,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "business analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Senior Business Analyst",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 16.45,
+      "job_kw_count": 8,
+      "probabilitas": 78.54,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 3.45,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "business analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Bussiness Data Analyst",
+      "company": "COLORLINK",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.01,
+      "job_kw_count": 10,
+      "probabilitas": 72.15,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "tableau"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Data Management Specialist",
+      "company": "Retail Orang Tua Group",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.84,
+      "job_kw_count": 10,
+      "probabilitas": 70.96,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Business Intelligence Developer - Multifinance Industry",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.5,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "tableau"
+      ],
+      "skill_gap": [
+        "python",
+        "programming",
+        "sql",
+        "postgresql",
+        "pandas"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Data Analyst / Data Analis",
+      "company": "PT. BPR Artha Karya Perdana",
+      "location": "Samarinda Kota, Kalimantan Timur",
+      "loc_tier": 0,
+      "similarity": 15.22,
+      "job_kw_count": 10,
+      "probabilitas": 63.64,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "masyarakat"
+      ],
+      "match_pct": 0.81,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "tableau"
+      ],
+      "skill_gap": [
+        "python",
+        "sql",
+        "mysql",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 18.52,
+    "role_distribution": {
+      "analyst": 6,
+      "developer": 3,
+      "consultant": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 6
+      },
+      {
+        "skill": "python",
+        "freq": 5
+      },
+      {
+        "skill": "power bi",
+        "freq": 3
+      },
+      {
+        "skill": "postgresql",
+        "freq": 3
+      },
+      {
+        "skill": "programming",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "tableau",
+        "freq": 6
+      }
+    ],
+    "top_n": 10
+  }
+}

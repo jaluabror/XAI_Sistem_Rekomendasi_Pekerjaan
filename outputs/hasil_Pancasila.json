@@ -1,0 +1,272 @@
+{
+  "mata_kuliah": "Pancasila",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Presales (Solution Architect)",
+      "company": "PT. Cyberindo Mega Persada (CBN Cloud)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.37,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Analyst – Relaxology & Wellness",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.86,
+      "job_kw_count": 10,
+      "probabilitas": 89.97,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Junior Presales",
+      "company": "PT Solusindo Bintang Pratama",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.2,
+      "job_kw_count": 10,
+      "probabilitas": 81.42,
+      "ebm_sim_bobot": 91.74,
+      "ebm_kw_bobot": 8.04,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud",
+        "firewall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Senior IT/EDP",
+      "company": "PT Defasindo Kreasi Prima",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 8.88,
+      "job_kw_count": 10,
+      "probabilitas": 77.21,
+      "ebm_sim_bobot": 91.72,
+      "ebm_kw_bobot": 8.06,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "database",
+        "erp",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Supervisor",
+      "company": "PT. Karta Anugerah Marvel Indonesia",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 8.62,
+      "job_kw_count": 10,
+      "probabilitas": 73.94,
+      "ebm_sim_bobot": 91.71,
+      "ebm_kw_bobot": 8.07,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "aws",
+        "azure",
+        "cloud",
+        "linux",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "VP of Information Security",
+      "company": "Tilaka Nusa Teknologi",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 8.31,
+      "job_kw_count": 10,
+      "probabilitas": 69.86,
+      "ebm_sim_bobot": 91.68,
+      "ebm_kw_bobot": 8.1,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud",
+        "cybersecurity",
+        "cryptography"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Engineer on Site",
+      "company": "PT Kuarta Powerindo Perkasa",
+      "location": "Medan, Sumatera Utara",
+      "loc_tier": 2,
+      "similarity": 8.61,
+      "job_kw_count": 7,
+      "probabilitas": 67.81,
+      "ebm_sim_bobot": 99.05,
+      "ebm_kw_bobot": 0.71,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Engineer on Site",
+      "company": "PT Kuarta Powerindo Perkasa",
+      "location": "Batam, Kepulauan Riau",
+      "loc_tier": 1,
+      "similarity": 8.61,
+      "job_kw_count": 7,
+      "probabilitas": 62.81,
+      "ebm_sim_bobot": 95.57,
+      "ebm_kw_bobot": 0.69,
+      "ebm_loc_bobot": 3.75,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Engineer on Site",
+      "company": "PT Kuarta Powerindo Perkasa",
+      "location": "Dumai, Riau",
+      "loc_tier": 0,
+      "similarity": 8.61,
+      "job_kw_count": 7,
+      "probabilitas": 57.81,
+      "ebm_sim_bobot": 98.74,
+      "ebm_kw_bobot": 0.71,
+      "ebm_loc_bobot": 0.55,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Store Specialist ( Admin )",
+      "company": "PT Mitra Kerja Utama",
+      "location": "Jambi",
+      "loc_tier": 0,
+      "similarity": 8.2,
+      "job_kw_count": 7,
+      "probabilitas": 52.5,
+      "ebm_sim_bobot": 98.73,
+      "ebm_kw_bobot": 0.71,
+      "ebm_loc_bobot": 0.55,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 5,
+      "consultant": 2,
+      "manager": 2,
+      "analyst": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "cloud",
+        "freq": 4
+      },
+      {
+        "skill": "database",
+        "freq": 2
+      },
+      {
+        "skill": "firewall",
+        "freq": 2
+      },
+      {
+        "skill": "sap",
+        "freq": 2
+      },
+      {
+        "skill": "sql",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

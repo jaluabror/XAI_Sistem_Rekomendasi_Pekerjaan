@@ -1,0 +1,353 @@
+{
+  "mata_kuliah": "Arsitektur Enterprise",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Security Engineer",
+      "company": "PT Intikom Berlian Mustika - Talent Acquisition",
+      "location": "Jakarta Raya",
+      "similarity": 9.31,
+      "job_kw_count": 8,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 250.0,
+      "probabilitas": 81.76,
+      "ebm_sim_bobot": 67.42,
+      "ebm_kw_bobot": 28.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 2.17,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "cybersecurity",
+        "penetration",
+        "wireshark"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Senior Enterprise Architect-RISE (Hiring in Bangkok and Singapore)",
+      "company": "Sinar Mas Group",
+      "location": "Jakarta Raya",
+      "similarity": 9.05,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 81.45,
+      "ebm_sim_bobot": 65.42,
+      "ebm_kw_bobot": 30.81,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise"
+      ],
+      "match_pct": 0.71,
+      "coverage_score": 40.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf",
+        "erp"
+      ],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Principal Enterprise Architect-RISE-Indonesia",
+      "company": "Sinar Mas Group",
+      "location": "Jakarta Raya",
+      "similarity": 8.66,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 80.5,
+      "ebm_sim_bobot": 65.36,
+      "ebm_kw_bobot": 30.86,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise"
+      ],
+      "match_pct": 0.66,
+      "coverage_score": 40.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf",
+        "erp"
+      ],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "similarity": 20.04,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 75.17,
+      "ebm_sim_bobot": 67.59,
+      "ebm_kw_bobot": 31.56,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 3.33,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Fullstack Engineer",
+      "company": "PT Tri Digital Perkasa (Volantis Technology)",
+      "location": "DI Yogyakarta",
+      "similarity": 9.45,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 166.67,
+      "probabilitas": 65.77,
+      "ebm_sim_bobot": 64.73,
+      "ebm_kw_bobot": 30.45,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "tingkat"
+      ],
+      "match_pct": 1.89,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "golang",
+        "react",
+        "angular"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "SME Network Security – Palo Alto SASE",
+      "company": "PT Metrocom Global Solusi",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "similarity": 10.85,
+      "job_kw_count": 6,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 56.56,
+      "ebm_sim_bobot": 69.74,
+      "ebm_kw_bobot": 29.38,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise",
+        "tingkat"
+      ],
+      "match_pct": 3.85,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "azure",
+        "cloud",
+        "firewall",
+        "routing"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Middle .NET Programmer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "similarity": 11.55,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 54.28,
+      "ebm_sim_bobot": 67.55,
+      "ebm_kw_bobot": 31.59,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 7.14,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "docker",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Backend Engineer (Java Spring Boot) – Banking System - Jakarta (WFO)",
+      "company": "Cermati Fintech Group",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "similarity": 9.45,
+      "job_kw_count": 5,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 51.09,
+      "ebm_sim_bobot": 66.14,
+      "ebm_kw_bobot": 33.01,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 1.96,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "spring",
+        "postgresql",
+        "oracle",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Backend Developer",
+      "company": "PT YAKIN BERTUMBUH SEKURITAS",
+      "location": "Surabaya, Jawa Timur",
+      "similarity": 8.72,
+      "job_kw_count": 5,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 49.3,
+      "ebm_sim_bobot": 66.1,
+      "ebm_kw_bobot": 33.06,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur"
+      ],
+      "match_pct": 1.25,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "golang",
+        "postgresql",
+        "database",
+        "redis",
+        "docker"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Software Architect",
+      "company": "PT Tri Digital Perkasa (Volantis Technology)",
+      "location": "DI Yogyakarta",
+      "similarity": 9.12,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 48.29,
+      "ebm_sim_bobot": 67.39,
+      "ebm_kw_bobot": 31.74,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur"
+      ],
+      "match_pct": 1.27,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "nosql",
+        "database",
+        "aws",
+        "gcp"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 8.0,
+    "role_distribution": {
+      "developer": 5,
+      "security": 2,
+      "consultant": 2,
+      "data_engineer": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 9
+      },
+      {
+        "skill": "cloud",
+        "freq": 8
+      },
+      {
+        "skill": "postgresql",
+        "freq": 4
+      },
+      {
+        "skill": "docker",
+        "freq": 4
+      },
+      {
+        "skill": "devops",
+        "freq": 4
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "togaf",
+        "freq": 2
+      },
+      {
+        "skill": "erp",
+        "freq": 2
+      }
+    ],
+    "top_n": 10
+  }
+}

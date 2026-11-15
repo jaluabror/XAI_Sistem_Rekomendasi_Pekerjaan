@@ -1,0 +1,331 @@
+{
+  "mata_kuliah": "Algoritma dan Pemrograman",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "SOFTWARE TESTER AUTOMATION (Urgently Hiring)",
+      "company": "PT Sharing Vision Indonesia",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.59,
+      "job_kw_count": 8,
+      "probabilitas": 92.5,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 1.85,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "jenkins",
+        "jira"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Junior System Analyst",
+      "company": "PT. Datascrip",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.08,
+      "job_kw_count": 10,
+      "probabilitas": 86.01,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "flowchart",
+        "pemrograman"
+      ],
+      "match_pct": 2.53,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "programming",
+        "flowchart"
+      ],
+      "skill_gap": [
+        "database",
+        "uml",
+        "waterfall",
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Junior Software Engineer - Jakarta (WFO) -  Banking Industry",
+      "company": "Toffee Dev",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.44,
+      "job_kw_count": 10,
+      "probabilitas": 81.56,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "flowchart",
+        "pemrograman"
+      ],
+      "match_pct": 2.0,
+      "coverage_score": 6.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "flowchart"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "php",
+        "kotlin",
+        "swift"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT Programmer",
+      "company": "Corporate",
+      "location": "Medan, Sumatera Utara",
+      "loc_tier": 2,
+      "similarity": 14.29,
+      "job_kw_count": 10,
+      "probabilitas": 73.54,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 2.56,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Developer (Backend / Fullstack)",
+      "company": "PT Mitra Distribusi Utama",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 14.1,
+      "job_kw_count": 10,
+      "probabilitas": 72.2,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "flowchart",
+        "pemrograman"
+      ],
+      "match_pct": 2.22,
+      "coverage_score": 11.11,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "flowchart"
+      ],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "vue",
+        "mysql",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Full-stack Developer",
+      "company": "PT Hotware Indonesia",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.92,
+      "job_kw_count": 10,
+      "probabilitas": 70.94,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 1.54,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "javascript",
+        "php",
+        "react"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Application Support (Java) - Banking Industry",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.63,
+      "job_kw_count": 7,
+      "probabilitas": 69.93,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 5.88,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Junior Programmer",
+      "company": "PT Oktri Syarief Grup",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.57,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 4.55,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "mysql",
+        "postgresql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Senior Full Stack Engineer",
+      "company": "PT INTAN PARIWARA",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 13.92,
+      "job_kw_count": 10,
+      "probabilitas": 65.98,
+      "ebm_sim_bobot": 88.91,
+      "ebm_kw_bobot": 7.67,
+      "ebm_loc_bobot": 3.42,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "pemrograman"
+      ],
+      "match_pct": 2.27,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "javascript",
+        "kotlin",
+        "swift"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "IT Staff",
+      "company": "PT. TPINC TRADING JAKARTA",
+      "location": "Semarang, Jawa Tengah",
+      "loc_tier": 2,
+      "similarity": 14.49,
+      "job_kw_count": 5,
+      "probabilitas": 64.92,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 5.11,
+    "role_distribution": {
+      "developer": 7,
+      "support": 2,
+      "analyst": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "python",
+        "freq": 6
+      },
+      {
+        "skill": "java",
+        "freq": 5
+      },
+      {
+        "skill": "javascript",
+        "freq": 5
+      },
+      {
+        "skill": "database",
+        "freq": 4
+      },
+      {
+        "skill": "mysql",
+        "freq": 4
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "flowchart",
+        "freq": 3
+      },
+      {
+        "skill": "programming",
+        "freq": 1
+      }
+    ],
+    "top_n": 10
+  }
+}

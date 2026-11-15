@@ -1,0 +1,316 @@
+{
+  "mata_kuliah": "PENGEMBANGAN UI LANJUT",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Mobile App Flutter Developer (Internship)",
+      "company": "PT Lincah Cipta Harapan",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 22.94,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.79,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flutter",
+        "git",
+        "rest api",
+        "android",
+        "ios"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Web Developer Intern (Paid Internship)",
+      "company": "PT Tiga Berlian Mandiri",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 22.66,
+      "job_kw_count": 10,
+      "probabilitas": 95.17,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 2.5,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "angular",
+        "vue",
+        "django"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Fresh Graduate Low Code Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 20.82,
+      "job_kw_count": 10,
+      "probabilitas": 86.19,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 3.7,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "git",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Fresh Graduate Mobile Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 20.58,
+      "job_kw_count": 6,
+      "probabilitas": 77.0,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 3.12,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "kotlin",
+        "swift",
+        "react",
+        "flutter",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Frontend Developer",
+      "company": "PT. Permata Azzuri Sehat",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.24,
+      "job_kw_count": 10,
+      "probabilitas": 73.61,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "programming",
+        "git",
+        "css",
+        "bootstrap",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Network Engineer",
+      "company": "PT Graha Karya Informasi",
+      "location": "Medan, Sumatera Utara",
+      "loc_tier": 2,
+      "similarity": 19.08,
+      "job_kw_count": 7,
+      "probabilitas": 71.71,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 2.38,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "firewall",
+        "cisco",
+        "mikrotik",
+        "routing",
+        "switching"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Fresh Graduate AI Prompter",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.83,
+      "job_kw_count": 5,
+      "probabilitas": 71.37,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 3.45,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Senior Progammer",
+      "company": "PT Best Mega Industri",
+      "location": "Depok, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 17.2,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.69,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "php",
+        "kotlin",
+        "laravel",
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT Support",
+      "company": "PT. GOTAMA JHAYA SEJAHTRA",
+      "location": "Denpasar, Bali",
+      "loc_tier": 1,
+      "similarity": 19.73,
+      "job_kw_count": 6,
+      "probabilitas": 67.87,
+      "ebm_sim_bobot": 95.59,
+      "ebm_kw_bobot": 0.74,
+      "ebm_loc_bobot": 3.67,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 4.35,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "database",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Mobile Developer (Flutter)",
+      "company": "nan",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.27,
+      "job_kw_count": 7,
+      "probabilitas": 62.87,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "kotlin",
+        "flutter",
+        "git",
+        "rest api",
+        "android"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 4,
+      "mobile_developer": 3,
+      "support": 2,
+      "prompter": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "git",
+        "freq": 7
+      },
+      {
+        "skill": "rest api",
+        "freq": 6
+      },
+      {
+        "skill": "flutter",
+        "freq": 3
+      },
+      {
+        "skill": "android",
+        "freq": 3
+      },
+      {
+        "skill": "ios",
+        "freq": 3
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

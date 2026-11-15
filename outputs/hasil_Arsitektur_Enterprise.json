@@ -1,0 +1,338 @@
+{
+  "mata_kuliah": "Arsitektur Enterprise",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Jr. Consultant Enterprise Architecture (EA)",
+      "company": "PT Imani Prima",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 20.33,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 5.56,
+      "coverage_score": 25.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "togaf"
+      ],
+      "skill_gap": [
+        "uml",
+        "bpmn",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 20.04,
+      "job_kw_count": 10,
+      "probabilitas": 95.53,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "dasar",
+        "enterprise"
+      ],
+      "match_pct": 4.35,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "IT Enterprise Architecture",
+      "company": "PT Mandiri Utama Finance",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.79,
+      "job_kw_count": 10,
+      "probabilitas": 91.4,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 2.97,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf"
+      ],
+      "skill_gap": [
+        "uml",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Solution Analyst",
+      "company": "PT Swadharma Duta Data",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.26,
+      "job_kw_count": 10,
+      "probabilitas": 86.31,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 2.78,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flowchart"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Solution Architect",
+      "company": "PT. 4net Prima Solusi",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.54,
+      "job_kw_count": 10,
+      "probabilitas": 83.92,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 5.26,
+      "coverage_score": 18.18,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "togaf",
+        "erp"
+      ],
+      "skill_gap": [
+        "oracle",
+        "aws",
+        "gcp",
+        "azure",
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Data Architect",
+      "company": "PT Metrocom Global Solusi",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.64,
+      "job_kw_count": 10,
+      "probabilitas": 80.96,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "arsitektur",
+        "dasar",
+        "enterprise"
+      ],
+      "match_pct": 6.56,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "ERP SAP B1 Specialist",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.76,
+      "job_kw_count": 10,
+      "probabilitas": 74.71,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 2.78,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Middle System Analyst",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.09,
+      "job_kw_count": 10,
+      "probabilitas": 69.19,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 5.26,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Middle Business Analyst",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 11.92,
+      "job_kw_count": 10,
+      "probabilitas": 68.61,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 4.88,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Middle Low Code Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.88,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "arsitektur",
+        "enterprise"
+      ],
+      "match_pct": 4.55,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 12.65,
+    "role_distribution": {
+      "consultant": 4,
+      "analyst": 3,
+      "data_engineer": 2,
+      "developer": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 5
+      },
+      {
+        "skill": "archimate",
+        "freq": 3
+      },
+      {
+        "skill": "oracle",
+        "freq": 3
+      },
+      {
+        "skill": "uml",
+        "freq": 2
+      },
+      {
+        "skill": "sql",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "togaf",
+        "freq": 3
+      },
+      {
+        "skill": "erp",
+        "freq": 2
+      }
+    ],
+    "top_n": 10
+  }
+}

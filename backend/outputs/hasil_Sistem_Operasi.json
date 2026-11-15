@@ -1,0 +1,302 @@
+{
+  "mata_kuliah": "Sistem Operasi",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Middle .NET Programmer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "similarity": 16.8,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.2351,
+      "ebm_sim_bobot": 97.31,
+      "ebm_kw_bobot": 2.69,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "docker",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Software Developer",
+      "company": "GREEN HARVEST",
+      "location": "Medan, Sumatera Utara",
+      "similarity": 14.34,
+      "job_kw_count": 5,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.2151,
+      "ebm_sim_bobot": 96.12,
+      "ebm_kw_bobot": 3.88,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "kotlin",
+        "react",
+        "flutter"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Senior Industrial IoT Software Developer",
+      "company": "PT Ragdalion Revolusi Industri",
+      "location": "Cikarang Selatan, Jawa Barat",
+      "similarity": 14.01,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1962,
+      "ebm_sim_bobot": 97.31,
+      "ebm_kw_bobot": 2.69,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "database",
+        "cloud",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Backend Developer",
+      "company": "Arkana",
+      "location": "Jakarta Raya",
+      "similarity": 12.89,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1805,
+      "ebm_sim_bobot": 96.7,
+      "ebm_kw_bobot": 3.3,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "golang",
+        "mysql",
+        "postgresql",
+        "database",
+        "redis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "similarity": 12.38,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1734,
+      "ebm_sim_bobot": 96.7,
+      "ebm_kw_bobot": 3.3,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "STAF IT (PROGRAMMER / WEB DEVELOPER)",
+      "company": "PT Disa Prima Medika",
+      "location": "Malang, Jawa Timur",
+      "similarity": 11.25,
+      "job_kw_count": 5,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1687,
+      "ebm_sim_bobot": 94.83,
+      "ebm_kw_bobot": 5.17,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "php",
+        "laravel",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Endpoint & Mobile Security Engineer",
+      "company": "PT Intikom Berlian Mustika - Talent Acquisition",
+      "location": "Jakarta Raya",
+      "similarity": 11.49,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1609,
+      "ebm_sim_bobot": 96.39,
+      "ebm_kw_bobot": 3.61,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "linux"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "IT DEVELOPER",
+      "company": "PT. Sinergi Digital Global Mulia",
+      "location": "Cikarang",
+      "similarity": 10.56,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1479,
+      "ebm_sim_bobot": 96.1,
+      "ebm_kw_bobot": 3.9,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "programming",
+        "sql",
+        "database",
+        "git"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Junior IT Programmer",
+      "company": "PT Putraduta Buanasentosa",
+      "location": "Pancoran, Jakarta Raya",
+      "similarity": 10.25,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1434,
+      "ebm_sim_bobot": 95.88,
+      "ebm_kw_bobot": 4.12,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "javascript",
+        "php",
+        "kotlin",
+        "react"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Full Stack Developer",
+      "company": "Goodeva Technology",
+      "location": "DI Yogyakarta",
+      "similarity": 10.09,
+      "job_kw_count": 4,
+      "vocab_match_score": 0.0,
+      "domain_match_score": 0.0,
+      "composite_score": 0.1413,
+      "ebm_sim_bobot": 95.88,
+      "ebm_kw_bobot": 4.12,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "react",
+        "django",
+        "mysql",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 7,
+      "data_engineer": 1,
+      "support": 1,
+      "mobile_developer": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 8
+      },
+      {
+        "skill": "mysql",
+        "freq": 6
+      },
+      {
+        "skill": "postgresql",
+        "freq": 6
+      },
+      {
+        "skill": "cloud",
+        "freq": 5
+      },
+      {
+        "skill": "python",
+        "freq": 4
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

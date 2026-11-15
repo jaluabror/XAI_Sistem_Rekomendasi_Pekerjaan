@@ -1,0 +1,287 @@
+{
+  "mata_kuliah": "ADOPSI TEKNOLOGI INFORMASI",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Android Kotlin Developer",
+      "company": "PT. Entrepreneur Trust Digital",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.67,
+      "job_kw_count": 5,
+      "probabilitas": 86.5,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "android"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Governance Oficer",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.39,
+      "job_kw_count": 10,
+      "probabilitas": 73.64,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Mobile App Flutter Developer (Internship)",
+      "company": "PT Lincah Cipta Harapan",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 10.37,
+      "job_kw_count": 10,
+      "probabilitas": 73.58,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flutter",
+        "git",
+        "rest api",
+        "android",
+        "ios"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Software Engineer",
+      "company": "PT Sentra Vidya Utama",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 9.77,
+      "job_kw_count": 10,
+      "probabilitas": 71.37,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "php",
+        "vue",
+        "laravel",
+        "typescript",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Technical Writer and Administration",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.86,
+      "job_kw_count": 9,
+      "probabilitas": 69.71,
+      "ebm_sim_bobot": 95.68,
+      "ebm_kw_bobot": 4.09,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flowchart"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Software & Website Maintenance",
+      "company": "PT Kharisma Tangguh Persada",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.29,
+      "job_kw_count": 10,
+      "probabilitas": 69.65,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Data Engineer - Banking Syariah",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.01,
+      "job_kw_count": 10,
+      "probabilitas": 68.62,
+      "ebm_sim_bobot": 91.74,
+      "ebm_kw_bobot": 8.04,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "mysql",
+        "database",
+        "aws"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Junior Frontend Developer",
+      "company": "PT. Inovasi Teknologi Generasi Cemerlang",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 8.99,
+      "job_kw_count": 10,
+      "probabilitas": 68.54,
+      "ebm_sim_bobot": 91.74,
+      "ebm_kw_bobot": 8.04,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "angular",
+        "vue",
+        "git",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Sysadmin & Project Officer",
+      "company": "RM Staffing B.V.",
+      "location": "Kemayoran, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 8.98,
+      "job_kw_count": 9,
+      "probabilitas": 66.5,
+      "ebm_sim_bobot": 95.66,
+      "ebm_kw_bobot": 4.11,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "linux"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "R&D Software Engineer",
+      "company": "PT Solusi Pembayaran Elektronik",
+      "location": "Cipondoh, Banten",
+      "loc_tier": 0,
+      "similarity": 9.85,
+      "job_kw_count": 10,
+      "probabilitas": 61.69,
+      "ebm_sim_bobot": 91.51,
+      "ebm_kw_bobot": 7.98,
+      "ebm_loc_bobot": 0.51,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "php",
+        "golang",
+        "django"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 6,
+      "mobile_developer": 2,
+      "data_engineer": 1,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 4
+      },
+      {
+        "skill": "cloud",
+        "freq": 3
+      },
+      {
+        "skill": "android",
+        "freq": 2
+      },
+      {
+        "skill": "git",
+        "freq": 2
+      },
+      {
+        "skill": "php",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

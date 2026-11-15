@@ -1,0 +1,200 @@
+{
+  "mata_kuliah": "Pengembangan Aplikasi Website",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT Programmer",
+      "company": "PT Infoarta Pratama",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 21.91,
+      "job_kw_count": 10,
+      "probabilitas": 89.7,
+      "ebm_sim_bobot": 17.96,
+      "ebm_kw_bobot": 81.96,
+      "ebm_loc_bobot": 163.91,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "html",
+        "website"
+      ],
+      "match_pct": 2.9,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "html",
+        "css"
+      ],
+      "skill_gap": [
+        "java",
+        "javascript",
+        "php",
+        "react",
+        "vue"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Full Stack Web Developer",
+      "company": "PT Tech Grid Indonesia",
+      "location": "Semarang, Jawa Tengah",
+      "loc_tier": 2,
+      "similarity": 20.64,
+      "job_kw_count": 4,
+      "probabilitas": 84.45,
+      "ebm_sim_bobot": 33.98,
+      "ebm_kw_bobot": 65.86,
+      "ebm_loc_bobot": 329.29,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "html",
+        "website"
+      ],
+      "match_pct": 8.7,
+      "coverage_score": 25.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "html",
+        "css"
+      ],
+      "skill_gap": [
+        "php",
+        "sql",
+        "mysql",
+        "git",
+        "web development"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "front end developer",
+      "company": "PT Chani Makmur Indonesia",
+      "location": "Cikarang Selatan, Jawa Barat",
+      "loc_tier": 0,
+      "similarity": 19.45,
+      "job_kw_count": 7,
+      "probabilitas": 79.6,
+      "ebm_sim_bobot": 21.72,
+      "ebm_kw_bobot": 78.16,
+      "ebm_loc_bobot": 0.0,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "html"
+      ],
+      "match_pct": 2.86,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "html",
+        "css"
+      ],
+      "skill_gap": [
+        "java",
+        "javascript"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Fresh Graduate Web Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.3,
+      "job_kw_count": 10,
+      "probabilitas": 78.98,
+      "ebm_sim_bobot": 16.17,
+      "ebm_kw_bobot": 83.75,
+      "ebm_loc_bobot": 167.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "html"
+      ],
+      "match_pct": 3.03,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "html",
+        "css"
+      ],
+      "skill_gap": [
+        "java",
+        "javascript",
+        "react",
+        "vue",
+        "git"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "FULL STACK DEVELOPER",
+      "company": "PT Tren Data Indonesia",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.64,
+      "job_kw_count": 7,
+      "probabilitas": 76.24,
+      "ebm_sim_bobot": 21.0,
+      "ebm_kw_bobot": 78.88,
+      "ebm_loc_bobot": 225.38,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "html"
+      ],
+      "match_pct": 4.17,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "html",
+        "css"
+      ],
+      "skill_gap": [
+        "java",
+        "javascript"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 31.86,
+    "role_distribution": {
+      "developer": 5
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "java",
+        "freq": 4
+      },
+      {
+        "skill": "javascript",
+        "freq": 4
+      },
+      {
+        "skill": "git",
+        "freq": 3
+      },
+      {
+        "skill": "php",
+        "freq": 2
+      },
+      {
+        "skill": "react",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "html",
+        "freq": 5
+      },
+      {
+        "skill": "css",
+        "freq": 5
+      }
+    ],
+    "top_n": 5
+  }
+}

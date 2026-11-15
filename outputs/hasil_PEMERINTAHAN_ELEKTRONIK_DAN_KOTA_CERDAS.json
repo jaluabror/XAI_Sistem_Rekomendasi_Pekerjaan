@@ -1,0 +1,281 @@
+{
+  "mata_kuliah": "PEMERINTAHAN ELEKTRONIK DAN KOTA CERDAS",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT System & Application Internship",
+      "company": "PT. JAYA BERSAMA SAPUTRA PERKASA",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 11.5,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.83,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Presales Solution Director",
+      "company": "Meratus Group",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.62,
+      "job_kw_count": 8,
+      "probabilitas": 82.68,
+      "ebm_sim_bobot": 97.22,
+      "ebm_kw_bobot": 2.55,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cybersecurity"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "IT Programmer",
+      "company": "PT Infoarta Pratama",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.51,
+      "job_kw_count": 10,
+      "probabilitas": 74.23,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.01,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "react",
+        "vue",
+        "laravel"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT Support",
+      "company": "PT. GOTAMA JHAYA SEJAHTRA",
+      "location": "Denpasar, Bali",
+      "loc_tier": 1,
+      "similarity": 10.64,
+      "job_kw_count": 6,
+      "probabilitas": 73.87,
+      "ebm_sim_bobot": 95.56,
+      "ebm_kw_bobot": 0.75,
+      "ebm_loc_bobot": 3.7,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "database",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Software Engineer",
+      "company": "PT Hikari Indo Sarana",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.45,
+      "job_kw_count": 10,
+      "probabilitas": 73.63,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "database",
+        "cloud",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Data Analyst / PDCA",
+      "company": "PT. CBA Chemical Industry",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 9.13,
+      "job_kw_count": 9,
+      "probabilitas": 68.02,
+      "ebm_sim_bobot": 95.66,
+      "ebm_kw_bobot": 4.11,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "IT Support",
+      "company": "ABC Laboratorium (PT Abacus Bhineka Citra)",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.82,
+      "job_kw_count": 5,
+      "probabilitas": 67.7,
+      "ebm_sim_bobot": 98.78,
+      "ebm_kw_bobot": 0.98,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Lowongan Kerja Regional Office Site IT",
+      "company": "PT SMART,Tbk",
+      "location": "Cinere, Jawa Barat",
+      "loc_tier": 0,
+      "similarity": 9.78,
+      "job_kw_count": 9,
+      "probabilitas": 65.23,
+      "ebm_sim_bobot": 95.4,
+      "ebm_kw_bobot": 4.08,
+      "ebm_loc_bobot": 0.53,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT Infrastructure & Security",
+      "company": "PT. Bumimulia Indah Lestari",
+      "location": "Cikarang",
+      "loc_tier": 0,
+      "similarity": 9.16,
+      "job_kw_count": 10,
+      "probabilitas": 60.39,
+      "ebm_sim_bobot": 91.47,
+      "ebm_kw_bobot": 8.02,
+      "ebm_loc_bobot": 0.51,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "linux",
+        "firewall",
+        "routing",
+        "switching"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Frontend Engineer (React.Js / Nuxt.Js) - Software Company (English Speaker)",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 8.99,
+      "job_kw_count": 5,
+      "probabilitas": 58.5,
+      "ebm_sim_bobot": 98.77,
+      "ebm_kw_bobot": 0.99,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "typescript",
+        "html",
+        "css"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 5,
+      "support": 3,
+      "manager": 1,
+      "analyst": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 5
+      },
+      {
+        "skill": "javascript",
+        "freq": 2
+      },
+      {
+        "skill": "react",
+        "freq": 2
+      },
+      {
+        "skill": "html",
+        "freq": 2
+      },
+      {
+        "skill": "css",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

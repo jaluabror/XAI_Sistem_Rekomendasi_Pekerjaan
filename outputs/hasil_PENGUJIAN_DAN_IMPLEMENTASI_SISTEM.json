@@ -1,0 +1,306 @@
+{
+  "mata_kuliah": "PENGUJIAN DAN IMPLEMENTASI SISTEM",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "ODOO DEVELOPER",
+      "company": "PT Vnv Mandiri Valve",
+      "location": "Kabupaten Bekasi, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 22.42,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "programming",
+        "database",
+        "css",
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Full Stack Web Developer Staff",
+      "company": "INACO",
+      "location": "Bekasi, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 20.45,
+      "job_kw_count": 10,
+      "probabilitas": 84.1,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "laravel",
+        "flowchart",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Quality Assurance (IT)",
+      "company": "PT. Pasifik Sukses Gemilang",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.88,
+      "job_kw_count": 10,
+      "probabilitas": 80.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.56,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "sdlc"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT HELPDESK & ADMIN SUPPORT",
+      "company": "PT Telexindo Bizmart",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.15,
+      "job_kw_count": 10,
+      "probabilitas": 75.87,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.89,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT CORE DEVELOPMENT STAFF",
+      "company": "Boga Group",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 18.77,
+      "job_kw_count": 10,
+      "probabilitas": 73.45,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "react",
+        "spring",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Solution Analyst Intern Corporate IT & IS",
+      "company": "Kompas Gramedia - KG Media",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.64,
+      "job_kw_count": 10,
+      "probabilitas": 72.67,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Fullstack Programmer (WFO-Malang)",
+      "company": "PT. Beon Intermedia",
+      "location": "Malang, Jawa Timur",
+      "loc_tier": 1,
+      "similarity": 19.6,
+      "job_kw_count": 9,
+      "probabilitas": 71.73,
+      "ebm_sim_bobot": 92.54,
+      "ebm_kw_bobot": 3.91,
+      "ebm_loc_bobot": 3.55,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "linux"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "SAP ABAP Bootcamp",
+      "company": "PT Astra Graphia Information Technology (AGIT)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.32,
+      "job_kw_count": 10,
+      "probabilitas": 70.64,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.23,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "programming",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT BUSINESS APPLICATION",
+      "company": "PT Yamaha Motor Electronics Indonesia",
+      "location": "Pulo Gadung, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.18,
+      "job_kw_count": 10,
+      "probabilitas": 69.73,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.82,
+      "coverage_score": 16.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "sdlc"
+      ],
+      "skill_gap": [
+        "database",
+        "rest api",
+        "agile",
+        "scrum",
+        "waterfall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "System & Automation Officer",
+      "company": "Bintang Pelajar (Bimbingan Belajar)",
+      "location": "Bogor, Jawa Barat",
+      "loc_tier": 1,
+      "similarity": 17.98,
+      "job_kw_count": 10,
+      "probabilitas": 63.5,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "flowchart",
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 11.67,
+    "role_distribution": {
+      "developer": 7,
+      "support": 1,
+      "analyst": 1,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "erp",
+        "freq": 4
+      },
+      {
+        "skill": "python",
+        "freq": 3
+      },
+      {
+        "skill": "programming",
+        "freq": 3
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      },
+      {
+        "skill": "css",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "sdlc",
+        "freq": 2
+      }
+    ],
+    "top_n": 10
+  }
+}

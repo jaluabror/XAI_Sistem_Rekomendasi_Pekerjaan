@@ -1,0 +1,288 @@
+{
+  "mata_kuliah": "PROBABILITAS DAN STATISTIK",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Cyber Security Staff",
+      "company": "PT META LIFE INDONESIA",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 17.94,
+      "job_kw_count": 6,
+      "probabilitas": 88.5,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud",
+        "docker",
+        "kubernetes",
+        "jenkins"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Junior Test Coordinator",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 17.69,
+      "job_kw_count": 6,
+      "probabilitas": 86.96,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "jira"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Data specialist",
+      "company": "PT. BRAHMA INTERNATIONAL",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.78,
+      "job_kw_count": 10,
+      "probabilitas": 77.24,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Reporting & Data Analyst Staff",
+      "company": "PT SOS Indonesia",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.56,
+      "job_kw_count": 10,
+      "probabilitas": 75.84,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "System & Automation Officer",
+      "company": "Bintang Pelajar (Bimbingan Belajar)",
+      "location": "Bogor, Jawa Barat",
+      "loc_tier": 1,
+      "similarity": 13.45,
+      "job_kw_count": 10,
+      "probabilitas": 64.08,
+      "ebm_sim_bobot": 88.91,
+      "ebm_kw_bobot": 7.67,
+      "ebm_loc_bobot": 3.42,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "flowchart",
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Product/Project Manager",
+      "company": "PT. Entrepreneur Trust Digital",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.53,
+      "job_kw_count": 7,
+      "probabilitas": 63.58,
+      "ebm_sim_bobot": 99.06,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "ruang"
+      ],
+      "match_pct": 3.12,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "agile",
+        "scrum",
+        "jira",
+        "sdlc",
+        "project management"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Staff IT",
+      "company": "nan",
+      "location": "Serpong, Banten",
+      "loc_tier": 0,
+      "similarity": 14.11,
+      "job_kw_count": 10,
+      "probabilitas": 63.15,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "AI Engineer",
+      "company": "PT TRANSPORTASI JAKARTA",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.35,
+      "job_kw_count": 7,
+      "probabilitas": 62.5,
+      "ebm_sim_bobot": 99.06,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "aws",
+        "gcp",
+        "azure",
+        "cloud",
+        "tensorflow"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Fresh Graduate AI Prompter",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.95,
+      "job_kw_count": 5,
+      "probabilitas": 62.15,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Production Support Downstream - Banking Syariah",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.82,
+      "job_kw_count": 5,
+      "probabilitas": 61.36,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "ruang"
+      ],
+      "match_pct": 1.75,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "manager": 3,
+      "support": 2,
+      "security": 1,
+      "consultant": 1,
+      "analyst": 1,
+      "data_scientist": 1,
+      "prompter": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "cloud",
+        "freq": 2
+      },
+      {
+        "skill": "jira",
+        "freq": 2
+      },
+      {
+        "skill": "python",
+        "freq": 2
+      },
+      {
+        "skill": "sql",
+        "freq": 2
+      },
+      {
+        "skill": "docker",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

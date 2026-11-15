@@ -1,0 +1,283 @@
+{
+  "mata_kuliah": "MANAJEMEN SUMBER DAYA MANUSIA",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "DATA ANALYST",
+      "company": "PT Asuransi Jiwa Syariah Al Amin",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.62,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "mysql",
+        "postgresql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Staff IT Security",
+      "company": "PT Kliring Penjaminan Efek Indonesia (KPEI)",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.42,
+      "job_kw_count": 10,
+      "probabilitas": 93.99,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "linux",
+        "firewall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Business Analyst",
+      "company": "PT Petra Sejahtera Abadi",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 13.28,
+      "job_kw_count": 10,
+      "probabilitas": 79.7,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "oracle",
+        "power bi",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Data Engineer Section Head",
+      "company": "PT Triputra Agro Persada",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.33,
+      "job_kw_count": 9,
+      "probabilitas": 78.24,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.05,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Technical Consultant (Application Support)",
+      "company": "PT Buana Finance Tbk",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.1,
+      "job_kw_count": 4,
+      "probabilitas": 77.99,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Compliance Auditor",
+      "company": "PT Ciptajaya Sejahtera Abadi",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.87,
+      "job_kw_count": 10,
+      "probabilitas": 74.46,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Project Manager – Data & Analytics",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.65,
+      "job_kw_count": 10,
+      "probabilitas": 71.74,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "data science",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "ERP & PPIC Specialist (Pengalaman E-Count / SAP Diutamakan)",
+      "company": "PT. Laksana Abadi Prima",
+      "location": "Cikupa, Banten",
+      "loc_tier": 0,
+      "similarity": 13.32,
+      "job_kw_count": 10,
+      "probabilitas": 70.2,
+      "ebm_sim_bobot": 91.59,
+      "ebm_kw_bobot": 7.9,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT NETWORK ADMINISTRATOR",
+      "company": "PT Cibadak Indah Sari Farm",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.39,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "firewall",
+        "mikrotik",
+        "routing",
+        "switching"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Monitoring ATM",
+      "company": "PT Norxel Teknologi Indonesia",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.01,
+      "job_kw_count": 6,
+      "probabilitas": 68.21,
+      "ebm_sim_bobot": 98.99,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 3,
+      "analyst": 2,
+      "support": 2,
+      "data_engineer": 1,
+      "manager": 1,
+      "consultant": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "power bi",
+        "freq": 3
+      },
+      {
+        "skill": "mysql",
+        "freq": 2
+      },
+      {
+        "skill": "postgresql",
+        "freq": 2
+      },
+      {
+        "skill": "database",
+        "freq": 2
+      },
+      {
+        "skill": "firewall",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

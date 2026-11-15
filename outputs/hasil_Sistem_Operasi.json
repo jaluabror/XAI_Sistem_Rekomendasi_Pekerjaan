@@ -1,0 +1,288 @@
+{
+  "mata_kuliah": "Sistem Operasi",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Application Development (Payment Switching)",
+      "company": "PRIMA GROUP",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 18.12,
+      "job_kw_count": 10,
+      "probabilitas": 96.02,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "sql",
+        "oracle",
+        "linux",
+        "switching"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IOT Engineer",
+      "company": "PT. Lantabura Media",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 18.19,
+      "job_kw_count": 10,
+      "probabilitas": 91.5,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "data science"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Middle .NET Programmer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.8,
+      "job_kw_count": 10,
+      "probabilitas": 86.36,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "docker",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Oracle APEX (Freelance)",
+      "company": "PT Solusi Integrasi Persada (Solinda)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.31,
+      "job_kw_count": 10,
+      "probabilitas": 75.57,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "oracle",
+        "agile"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Cyber Security & Network Engineer",
+      "company": "PT. Anugerah Total Solusi",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 15.18,
+      "job_kw_count": 10,
+      "probabilitas": 74.61,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "aws",
+        "gcp",
+        "azure",
+        "cloud",
+        "linux"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Middle Test Manager",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.13,
+      "job_kw_count": 9,
+      "probabilitas": 72.22,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Head of ePartner Network Activation",
+      "company": "PT Elangsung International Agency",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.59,
+      "job_kw_count": 10,
+      "probabilitas": 70.33,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "driven"
+      ],
+      "match_pct": 0.46,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Software Developer",
+      "company": "GREEN HARVEST",
+      "location": "Medan, Sumatera Utara",
+      "loc_tier": 2,
+      "similarity": 14.34,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "kotlin",
+        "react",
+        "flutter"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "System & Automation Officer",
+      "company": "Bintang Pelajar (Bimbingan Belajar)",
+      "location": "Bogor, Jawa Barat",
+      "loc_tier": 1,
+      "similarity": 14.49,
+      "job_kw_count": 10,
+      "probabilitas": 64.58,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "flowchart",
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Odoo Analyst and AI Engineer",
+      "company": "PT. Central Proteina Prima, Tbk",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.72,
+      "job_kw_count": 6,
+      "probabilitas": 63.26,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "machine learning",
+        "erp",
+        "odoo"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 5,
+      "manager": 3,
+      "support": 1,
+      "data_scientist": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 3
+      },
+      {
+        "skill": "python",
+        "freq": 3
+      },
+      {
+        "skill": "oracle",
+        "freq": 2
+      },
+      {
+        "skill": "linux",
+        "freq": 2
+      },
+      {
+        "skill": "cloud",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

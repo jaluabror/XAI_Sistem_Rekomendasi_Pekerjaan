@@ -1,0 +1,328 @@
+{
+  "mata_kuliah": "SISTEM BASIS DATA (1)",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "similarity": 14.26,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 108.5,
+      "ebm_sim_bobot": 65.61,
+      "ebm_kw_bobot": 30.64,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 12.5,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT Database Engineer",
+      "company": "PT Catur Sentosa Adiprana Tbk",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "similarity": 6.83,
+      "job_kw_count": 5,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 85.57,
+      "ebm_sim_bobot": 46.16,
+      "ebm_kw_bobot": 48.28,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 11.11,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "scala",
+        "sql",
+        "nosql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "FIST System & Data Lead",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "similarity": 7.11,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 84.51,
+      "ebm_sim_bobot": 47.65,
+      "ebm_kw_bobot": 46.64,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "postgresql",
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Backend Developer",
+      "company": "Arkana",
+      "location": "Jakarta Raya",
+      "similarity": 6.19,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 81.44,
+      "ebm_sim_bobot": 29.59,
+      "ebm_kw_bobot": 62.73,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "golang",
+        "mysql",
+        "postgresql",
+        "redis",
+        "docker"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Application Support | IT Business Analyst",
+      "company": "PT MYPRO SOLUSINDO INFORMATIKA",
+      "location": "Jakarta Raya",
+      "similarity": 6.15,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 81.3,
+      "ebm_sim_bobot": 29.59,
+      "ebm_kw_bobot": 62.73,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 12.5,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "flowchart",
+        "sql",
+        "agile",
+        "jira",
+        "waterfall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Programmer Cianjur",
+      "company": "PT Duta Cendana Adimandiri",
+      "location": "Cianjur, Jawa Barat",
+      "similarity": 6.07,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 333.33,
+      "probabilitas": 81.04,
+      "ebm_sim_bobot": 30.3,
+      "ebm_kw_bobot": 62.1,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 7.14,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "javascript",
+        "php",
+        "react"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Full Stack Developer",
+      "company": "Goodeva Technology",
+      "location": "DI Yogyakarta",
+      "similarity": 7.32,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 250.0,
+      "probabilitas": 76.87,
+      "ebm_sim_bobot": 47.64,
+      "ebm_kw_bobot": 46.44,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 12.5,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "python",
+        "react",
+        "django",
+        "mysql",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "IT SUPPORT",
+      "company": "nan",
+      "location": "Makassar, Sulawesi Selatan",
+      "similarity": 5.99,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 250.0,
+      "probabilitas": 72.44,
+      "ebm_sim_bobot": 28.76,
+      "ebm_kw_bobot": 63.2,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 16.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "sql",
+        "networking",
+        "erp",
+        "sap",
+        "odoo"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Software Engineer",
+      "company": "PT Swadharma Duta Data",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "similarity": 5.91,
+      "job_kw_count": 4,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 142.86,
+      "probabilitas": 61.45,
+      "ebm_sim_bobot": 27.8,
+      "ebm_kw_bobot": 62.34,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [
+        "object"
+      ],
+      "match_pct": 0.69,
+      "coverage_score": 4.76,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "angular",
+        "spring",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "IT Security VAPT Specialist",
+      "company": "PT Adira Dinamika Multi Finance Tbk",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "similarity": 7.1,
+      "job_kw_count": 5,
+      "vocab_match_score": 6.67,
+      "domain_match_score": 0.0,
+      "probabilitas": 53.14,
+      "ebm_sim_bobot": 48.43,
+      "ebm_kw_bobot": 50.28,
+      "faktor_dominan": "relevansi IT job",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud",
+        "linux",
+        "penetration"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 9.15,
+    "role_distribution": {
+      "developer": 5,
+      "support": 2,
+      "data_engineer": 1,
+      "manager": 1,
+      "consultant": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 6
+      },
+      {
+        "skill": "postgresql",
+        "freq": 5
+      },
+      {
+        "skill": "cloud",
+        "freq": 5
+      },
+      {
+        "skill": "python",
+        "freq": 5
+      },
+      {
+        "skill": "mysql",
+        "freq": 4
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "database",
+        "freq": 8
+      }
+    ],
+    "top_n": 10
+  }
+}

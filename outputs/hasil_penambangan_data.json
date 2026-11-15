@@ -1,0 +1,312 @@
+{
+  "mata_kuliah": "Penambangan Data",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Data Analytics Intern",
+      "company": "PT Adira Dinamika Multi Finance Tbk",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.61,
+      "job_kw_count": 10,
+      "probabilitas": 88.36,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mining"
+      ],
+      "match_pct": 1.72,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "data mining"
+      ],
+      "skill_gap": [
+        "python",
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IoT Developer for Mining Industry",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Kalimantan Utara",
+      "loc_tier": 0,
+      "similarity": 13.88,
+      "job_kw_count": 7,
+      "probabilitas": 80.5,
+      "ebm_sim_bobot": 98.76,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mining"
+      ],
+      "match_pct": 0.67,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "programming",
+        "aws",
+        "azure"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Position",
+      "company": "PT Summarecon Agung, Tbk",
+      "location": "Kecamatan Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 11.44,
+      "job_kw_count": 8,
+      "probabilitas": 76.89,
+      "ebm_sim_bobot": 97.23,
+      "ebm_kw_bobot": 2.54,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mining"
+      ],
+      "match_pct": 2.17,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "data mining"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "programming",
+        "machine learning",
+        "togaf"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Staf IT - TECHNICAL SUPPORT",
+      "company": "PT. Anugerah Total Solusi",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 10.1,
+      "job_kw_count": 10,
+      "probabilitas": 72.33,
+      "ebm_sim_bobot": 91.78,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 2.5,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "linux",
+        "cisco",
+        "mikrotik",
+        "routing"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "ENDP _IT Data System Engineer Of HSE Mining (Location: Kalsel)",
+      "company": "nan",
+      "location": "Kalimantan Selatan",
+      "loc_tier": 0,
+      "similarity": 11.98,
+      "job_kw_count": 8,
+      "probabilitas": 70.34,
+      "ebm_sim_bobot": 96.94,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.53,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mining"
+      ],
+      "match_pct": 1.49,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Support Engineer | Mining Opertional Technology",
+      "company": "Hexagon Mining",
+      "location": "Balikpapan, Kalimantan Timur",
+      "loc_tier": 1,
+      "similarity": 10.2,
+      "job_kw_count": 10,
+      "probabilitas": 67.96,
+      "ebm_sim_bobot": 88.82,
+      "ebm_kw_bobot": 7.74,
+      "ebm_loc_bobot": 3.45,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mining"
+      ],
+      "match_pct": 0.33,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "programming",
+        "sql",
+        "postgresql",
+        "mongodb"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Business Intelligence",
+      "company": "Altius Hospital",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.18,
+      "job_kw_count": 5,
+      "probabilitas": 62.81,
+      "ebm_sim_bobot": 98.78,
+      "ebm_kw_bobot": 0.98,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mining"
+      ],
+      "match_pct": 1.33,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "data mining"
+      ],
+      "skill_gap": [
+        "sql",
+        "statistics"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Network Infrastructure",
+      "company": "nan",
+      "location": "Batam, Kepulauan Riau",
+      "loc_tier": 1,
+      "similarity": 9.5,
+      "job_kw_count": 8,
+      "probabilitas": 59.5,
+      "ebm_sim_bobot": 93.88,
+      "ebm_kw_bobot": 2.47,
+      "ebm_loc_bobot": 3.65,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT Support",
+      "company": "PT. GOTAMA JHAYA SEJAHTRA",
+      "location": "Denpasar, Bali",
+      "loc_tier": 1,
+      "similarity": 9.71,
+      "job_kw_count": 6,
+      "probabilitas": 56.84,
+      "ebm_sim_bobot": 95.54,
+      "ebm_kw_bobot": 0.75,
+      "ebm_loc_bobot": 3.71,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 3.7,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "database",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "E-PAYMENT STAFF",
+      "company": "PT Module Intracs Yasatama",
+      "location": "Cikarang",
+      "loc_tier": 0,
+      "similarity": 9.63,
+      "job_kw_count": 6,
+      "probabilitas": 51.35,
+      "ebm_sim_bobot": 98.68,
+      "ebm_kw_bobot": 0.78,
+      "ebm_loc_bobot": 0.55,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.2,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 8.09,
+    "role_distribution": {
+      "developer": 6,
+      "support": 4
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 5
+      },
+      {
+        "skill": "python",
+        "freq": 4
+      },
+      {
+        "skill": "programming",
+        "freq": 3
+      },
+      {
+        "skill": "java",
+        "freq": 2
+      },
+      {
+        "skill": "linux",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "data mining",
+        "freq": 3
+      }
+    ],
+    "top_n": 10
+  }
+}

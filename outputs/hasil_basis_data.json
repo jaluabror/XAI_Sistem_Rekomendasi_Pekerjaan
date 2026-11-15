@@ -1,0 +1,300 @@
+{
+  "mata_kuliah": "SISTEM BASIS DATA (1)",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.26,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 12.5,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "PROGRAMMER",
+      "company": "PT Gunta Samba Jaya",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.44,
+      "job_kw_count": 10,
+      "probabilitas": 74.94,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "golang"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "System Analyst",
+      "company": "TalentGo",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.1,
+      "job_kw_count": 10,
+      "probabilitas": 73.05,
+      "ebm_sim_bobot": 91.78,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "mysql",
+        "postgresql",
+        "mongodb"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Full Stack Web Developer Staff",
+      "company": "INACO",
+      "location": "Bekasi, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 10.03,
+      "job_kw_count": 10,
+      "probabilitas": 72.65,
+      "ebm_sim_bobot": 91.78,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 11.11,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "laravel",
+        "flowchart",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Analyst Intern",
+      "company": "PT Pabrik Cat & Tinta Pacific (Pacific Paint)",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 9.75,
+      "job_kw_count": 10,
+      "probabilitas": 71.07,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 16.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "database"
+      ],
+      "skill_gap": [
+        "sql",
+        "data science",
+        "data analysis",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Oracle APEX (Freelance)",
+      "company": "PT Solusi Integrasi Persada (Solinda)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.57,
+      "job_kw_count": 10,
+      "probabilitas": 70.02,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.01,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "oracle",
+        "agile"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Business Analyst",
+      "company": "Ivaro Furniture",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 9.35,
+      "job_kw_count": 10,
+      "probabilitas": 68.79,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "BI Engineer for Multifinance Industry",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.3,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data mining",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "System Analyst",
+      "company": "SCCR Indonesia",
+      "location": "Gunungpati, Jawa Tengah",
+      "loc_tier": 0,
+      "similarity": 10.8,
+      "job_kw_count": 10,
+      "probabilitas": 66.97,
+      "ebm_sim_bobot": 91.55,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "agile",
+        "waterfall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Cyber Security / Penetration Tester Intern",
+      "company": "PT Adira Dinamika Multi Finance Tbk",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.38,
+      "job_kw_count": 6,
+      "probabilitas": 60.97,
+      "ebm_sim_bobot": 98.98,
+      "ebm_kw_bobot": 0.78,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "penetration"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 4.03,
+    "role_distribution": {
+      "developer": 4,
+      "analyst": 4,
+      "data_engineer": 1,
+      "security": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 3
+      },
+      {
+        "skill": "mysql",
+        "freq": 3
+      },
+      {
+        "skill": "oracle",
+        "freq": 3
+      },
+      {
+        "skill": "agile",
+        "freq": 3
+      },
+      {
+        "skill": "power bi",
+        "freq": 3
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "database",
+        "freq": 3
+      }
+    ],
+    "top_n": 10
+  }
+}

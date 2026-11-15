@@ -1,0 +1,294 @@
+{
+  "mata_kuliah": "Sistem Enterprise",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "System Analyst",
+      "company": "PT Propan Raya Industrial Coating Chemicals",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 19.5,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "sdlc",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT Application Customization MM/Retail",
+      "company": "PT Supra Boga Lestari Tbk",
+      "location": "Pesanggrahan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.97,
+      "job_kw_count": 10,
+      "probabilitas": 86.0,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Full Stack Web Developer Staff",
+      "company": "INACO",
+      "location": "Bekasi, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 16.87,
+      "job_kw_count": 10,
+      "probabilitas": 78.46,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 11.11,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "laravel",
+        "flowchart",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT Solution Analyst Intern Corporate IT & IS",
+      "company": "Kompas Gramedia - KG Media",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.85,
+      "job_kw_count": 10,
+      "probabilitas": 78.33,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT SAP Business One (Functional)",
+      "company": "PT Susanti Megah",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 16.6,
+      "job_kw_count": 9,
+      "probabilitas": 74.6,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "FIST System & Data Lead",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.86,
+      "job_kw_count": 10,
+      "probabilitas": 71.55,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "postgresql",
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Strategic Digital Development Analyst",
+      "company": "PT Bank Mandiri (PERSERO) Tbk",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.42,
+      "job_kw_count": 7,
+      "probabilitas": 69.37,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "area"
+      ],
+      "match_pct": 2.38,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "agile"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Full Stack Developer",
+      "company": "PT Daya Anugrah Mandiri",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 15.77,
+      "job_kw_count": 9,
+      "probabilitas": 68.98,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "aws",
+        "cloud",
+        "linux"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT Application Support | IT Business Analyst",
+      "company": "PT MYPRO SOLUSINDO INFORMATIKA",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.41,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flowchart",
+        "sql",
+        "database",
+        "agile",
+        "jira"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Full-Stack Engineer",
+      "company": "PT Sigma Digital Nusantara",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 15.48,
+      "job_kw_count": 10,
+      "probabilitas": 63.96,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 16.11,
+    "role_distribution": {
+      "developer": 5,
+      "analyst": 3,
+      "manager": 1,
+      "support": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 4
+      },
+      {
+        "skill": "sap",
+        "freq": 3
+      },
+      {
+        "skill": "sdlc",
+        "freq": 2
+      },
+      {
+        "skill": "flowchart",
+        "freq": 2
+      },
+      {
+        "skill": "python",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "erp",
+        "freq": 3
+      }
+    ],
+    "top_n": 10
+  }
+}

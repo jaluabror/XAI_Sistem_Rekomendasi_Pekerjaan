@@ -1,0 +1,270 @@
+{
+  "mata_kuliah": "MANAJEMEN RANTAI PASOK",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Business Analyst",
+      "company": "PT Petra Sejahtera Abadi",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 16.35,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "oracle",
+        "power bi",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Back End Engineer (Supply Chain) - Sea Labs",
+      "company": "PT Sea Group",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.26,
+      "job_kw_count": 8,
+      "probabilitas": 79.24,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "golang",
+        "mysql",
+        "redis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "ICT Dynamic Sistem Specialist",
+      "company": "PT. TATAMULIA NUSANTARA INDAH",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.48,
+      "job_kw_count": 10,
+      "probabilitas": 78.3,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Continuous Improvement Analyst Manager",
+      "company": "PT Priamanaya Group",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.06,
+      "job_kw_count": 10,
+      "probabilitas": 75.62,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Management Specialist",
+      "company": "Retail Orang Tua Group",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.9,
+      "job_kw_count": 10,
+      "probabilitas": 74.58,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Policy & Governance",
+      "company": "PT Mandiri Utama Finance",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.8,
+      "job_kw_count": 10,
+      "probabilitas": 73.99,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "togaf",
+        "cobit"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Product IT Manager",
+      "company": "Toffee Dev",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.25,
+      "job_kw_count": 10,
+      "probabilitas": 70.5,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "devops"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "ERP Functional Consultant (SCM)",
+      "company": "Talenta Sans",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.59,
+      "job_kw_count": 5,
+      "probabilitas": 69.0,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Vendor Management Tower Section Head",
+      "company": "PT Ciptajaya Sejahtera Abadi",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.1,
+      "job_kw_count": 8,
+      "probabilitas": 65.53,
+      "ebm_sim_bobot": 97.23,
+      "ebm_kw_bobot": 2.54,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Full Stack Engineer",
+      "company": "IT",
+      "location": "Purwokerto Barat, Jawa Tengah",
+      "loc_tier": 0,
+      "similarity": 11.94,
+      "job_kw_count": 5,
+      "probabilitas": 48.5,
+      "ebm_sim_bobot": 98.49,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "react",
+        "typescript",
+        "agile",
+        "scrum"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 3,
+      "consultant": 3,
+      "analyst": 2,
+      "manager": 2
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "oracle",
+        "freq": 1
+      },
+      {
+        "skill": "power bi",
+        "freq": 1
+      },
+      {
+        "skill": "sap",
+        "freq": 1
+      },
+      {
+        "skill": "python",
+        "freq": 1
+      },
+      {
+        "skill": "java",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

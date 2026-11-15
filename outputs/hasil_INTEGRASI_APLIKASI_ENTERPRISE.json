@@ -1,0 +1,287 @@
+{
+  "mata_kuliah": "INTEGRASI APLIKASI ENTERPRISE",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Pre-Sales IT & IT Support",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.56,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.86,
+      "job_kw_count": 10,
+      "probabilitas": 77.76,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 1.15,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Jr. Consultant Enterprise Architecture (EA)",
+      "company": "PT Imani Prima",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.81,
+      "job_kw_count": 10,
+      "probabilitas": 77.5,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 2.08,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "uml",
+        "bpmn",
+        "togaf",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Software Engineer",
+      "company": "Qode",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.5,
+      "job_kw_count": 10,
+      "probabilitas": 70.89,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "php",
+        "angular",
+        "laravel",
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Engineer",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.41,
+      "job_kw_count": 10,
+      "probabilitas": 70.44,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "enterprise"
+      ],
+      "match_pct": 0.9,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "database",
+        "aws",
+        "azure"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "PROGRAMMER",
+      "company": "PT Gas Putra Semangat Abadi",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 12.32,
+      "job_kw_count": 10,
+      "probabilitas": 69.97,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "jenkins",
+        "git",
+        "jira"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Quality Assurance (IT)",
+      "company": "PT. Pasifik Sukses Gemilang",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.03,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "IT Sales",
+      "company": "PT Wirakom Sistem",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 13.23,
+      "job_kw_count": 6,
+      "probabilitas": 66.58,
+      "ebm_sim_bobot": 98.99,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Full-Stack Engineer",
+      "company": "PT Sigma Digital Nusantara",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 12.13,
+      "job_kw_count": 10,
+      "probabilitas": 64.02,
+      "ebm_sim_bobot": 88.89,
+      "ebm_kw_bobot": 7.69,
+      "ebm_loc_bobot": 3.42,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Network Infrastructure",
+      "company": "nan",
+      "location": "Batam, Kepulauan Riau",
+      "loc_tier": 1,
+      "similarity": 12.46,
+      "job_kw_count": 8,
+      "probabilitas": 61.69,
+      "ebm_sim_bobot": 93.93,
+      "ebm_kw_bobot": 2.45,
+      "ebm_loc_bobot": 3.62,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 5,
+      "support": 2,
+      "data_engineer": 2,
+      "consultant": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 3
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      },
+      {
+        "skill": "postgresql",
+        "freq": 2
+      },
+      {
+        "skill": "java",
+        "freq": 2
+      },
+      {
+        "skill": "jenkins",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

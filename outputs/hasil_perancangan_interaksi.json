@@ -1,0 +1,301 @@
+{
+  "mata_kuliah": "Perancangan Interaksi",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IOT Engineer",
+      "company": "PT. Lantabura Media",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 14.77,
+      "job_kw_count": 10,
+      "probabilitas": 91.5,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.96,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "data science"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT Quality Assurance",
+      "company": "PT Nawa Data Solutions",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.52,
+      "job_kw_count": 10,
+      "probabilitas": 79.95,
+      "ebm_sim_bobot": 91.83,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Full Stack Web Developer Staff",
+      "company": "INACO",
+      "location": "Bekasi, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 10.19,
+      "job_kw_count": 10,
+      "probabilitas": 73.22,
+      "ebm_sim_bobot": 91.78,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "laravel",
+        "flowchart",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "L1 Engineer Redis",
+      "company": "PT Metrocom Global Solusi",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.97,
+      "job_kw_count": 10,
+      "probabilitas": 72.08,
+      "ebm_sim_bobot": 91.78,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.85,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "database",
+        "redis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "UI/UX Designer",
+      "company": "PT. TRANSNOVASI BANGUN PERSADA",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.55,
+      "job_kw_count": 10,
+      "probabilitas": 69.96,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.01,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.01,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "html",
+        "css",
+        "agile",
+        "scrum",
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Full Stack Developer Intern",
+      "company": "Horus Technology",
+      "location": "Sleman, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 10.5,
+      "job_kw_count": 10,
+      "probabilitas": 69.81,
+      "ebm_sim_bobot": 88.82,
+      "ebm_kw_bobot": 7.73,
+      "ebm_loc_bobot": 3.44,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.56,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "react",
+        "vue",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "System Analyst",
+      "company": "PT JAVAN CIPTA SOLUSI",
+      "location": "Sleman, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 10.47,
+      "job_kw_count": 10,
+      "probabilitas": 69.62,
+      "ebm_sim_bobot": 88.82,
+      "ebm_kw_bobot": 7.73,
+      "ebm_loc_bobot": 3.44,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "bpmn"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Presales (Solution Architect)",
+      "company": "PT. Cyberindo Mega Persada (CBN Cloud)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.27,
+      "job_kw_count": 10,
+      "probabilitas": 68.54,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Junior Presales",
+      "company": "PT Solusindo Bintang Pratama",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.26,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.75,
+      "ebm_kw_bobot": 8.03,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.67,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud",
+        "firewall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "IT Support",
+      "company": "PT. GOTAMA JHAYA SEJAHTRA",
+      "location": "Denpasar, Bali",
+      "loc_tier": 1,
+      "similarity": 11.18,
+      "job_kw_count": 6,
+      "probabilitas": 65.24,
+      "ebm_sim_bobot": 95.56,
+      "ebm_kw_bobot": 0.75,
+      "ebm_loc_bobot": 3.69,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 4.35,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "database",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 6,
+      "designer": 1,
+      "analyst": 1,
+      "consultant": 1,
+      "support": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "mysql",
+        "freq": 3
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      },
+      {
+        "skill": "cloud",
+        "freq": 3
+      },
+      {
+        "skill": "python",
+        "freq": 2
+      },
+      {
+        "skill": "sql",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "mata_kuliah": "Sistem Manajemen Hubungan Pelaggan",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Technical Operations (API Experience)",
+      "company": "PT Rajawali Berdikari Indonesia",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.11,
+      "job_kw_count": 8,
+      "probabilitas": 92.5,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "web development"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Sales (IT) Supervisor",
+      "company": "PT Inixindo Amiete Mandiri",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 13.62,
+      "job_kw_count": 10,
+      "probabilitas": 77.98,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "tertentu"
+      ],
+      "match_pct": 0.58,
+      "coverage_score": 25.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [
+        "cloud",
+        "networking",
+        "cybersecurity"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Presales (Solution Architect)",
+      "company": "PT. Cyberindo Mega Persada (CBN Cloud)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.26,
+      "job_kw_count": 10,
+      "probabilitas": 76.08,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "berpikir"
+      ],
+      "match_pct": 1.64,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Key Account Executive",
+      "company": "PT Qonex Indonesia Solusi",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.87,
+      "job_kw_count": 5,
+      "probabilitas": 74.63,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Presales Support Assc.",
+      "company": "PT. Metrodata Electronics, Tbk",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.5,
+      "job_kw_count": 5,
+      "probabilitas": 72.67,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Presales Support",
+      "company": "PT. WIZ TECHNOLOGY INDONESIA",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.21,
+      "job_kw_count": 10,
+      "probabilitas": 70.51,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "return"
+      ],
+      "match_pct": 0.85,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Presales Support Assc.",
+      "company": "Mitra Integrasi Informatika",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.75,
+      "job_kw_count": 5,
+      "probabilitas": 68.7,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "return"
+      ],
+      "match_pct": 0.92,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Head of ePartner Network Activation",
+      "company": "PT Elangsung International Agency",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.83,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.83,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "social",
+        "tradisional"
+      ],
+      "match_pct": 0.86,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Pre Sales (Jabar/Jateng/Jatim/Bali/Sulawesi)",
+      "company": "PT Dutakom Wibawa Putra (D~NET)",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 12.4,
+      "job_kw_count": 8,
+      "probabilitas": 67.51,
+      "ebm_sim_bobot": 97.23,
+      "ebm_kw_bobot": 2.54,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "IT Sales",
+      "company": "PT Wirakom Sistem",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 12.03,
+      "job_kw_count": 6,
+      "probabilitas": 61.54,
+      "ebm_sim_bobot": 98.99,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 2.5,
+    "role_distribution": {
+      "developer": 4,
+      "support": 3,
+      "manager": 2,
+      "consultant": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "cloud",
+        "freq": 2
+      },
+      {
+        "skill": "database",
+        "freq": 1
+      },
+      {
+        "skill": "web development",
+        "freq": 1
+      },
+      {
+        "skill": "networking",
+        "freq": 1
+      },
+      {
+        "skill": "cybersecurity",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "erp",
+        "freq": 1
+      }
+    ],
+    "top_n": 10
+  }
+}

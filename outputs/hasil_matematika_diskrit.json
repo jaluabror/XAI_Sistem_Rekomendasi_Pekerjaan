@@ -1,0 +1,286 @@
+{
+  "mata_kuliah": "Matematika Diskrit",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Fresh Graduate Web Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.9,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "vue",
+        "git",
+        "html"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Fresh Graduate .NET Programmer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.84,
+      "job_kw_count": 10,
+      "probabilitas": 96.01,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "postgresql",
+        "database",
+        "git",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Fullstack Programmer",
+      "company": "PT. Zentralink Otoparts",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.27,
+      "job_kw_count": 10,
+      "probabilitas": 82.16,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "flutter",
+        "laravel",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "back end developer",
+      "company": "PT Chani Makmur Indonesia",
+      "location": "Cikarang Selatan, Jawa Barat",
+      "loc_tier": 0,
+      "similarity": 15.14,
+      "job_kw_count": 10,
+      "probabilitas": 79.81,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "nosql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "VR & AI DEVELOPMENT TEAM",
+      "company": "Politeknik Givino Nusantara",
+      "location": "Neglasari, Banten",
+      "loc_tier": 0,
+      "similarity": 15.28,
+      "job_kw_count": 7,
+      "probabilitas": 75.12,
+      "ebm_sim_bobot": 98.76,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "machine learning"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Fresh Graduate AI Prompter",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.44,
+      "job_kw_count": 5,
+      "probabilitas": 73.72,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "System & Automation Officer",
+      "company": "Bintang Pelajar (Bimbingan Belajar)",
+      "location": "Bogor, Jawa Barat",
+      "loc_tier": 1,
+      "similarity": 13.0,
+      "job_kw_count": 10,
+      "probabilitas": 66.02,
+      "ebm_sim_bobot": 88.91,
+      "ebm_kw_bobot": 7.67,
+      "ebm_loc_bobot": 3.42,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "flowchart",
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Presales Engineer",
+      "company": "PT Alfa Siber Teknologi",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.83,
+      "job_kw_count": 5,
+      "probabilitas": 59.52,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Programmer Staff",
+      "company": "PT Chocomory Cokelat Persada",
+      "location": "Cisarua, Jawa Barat",
+      "loc_tier": 0,
+      "similarity": 12.71,
+      "job_kw_count": 10,
+      "probabilitas": 58.5,
+      "ebm_sim_bobot": 91.59,
+      "ebm_kw_bobot": 7.9,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "react",
+        "vue",
+        "laravel"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Teknisi FO (Tasikmalaya)",
+      "company": "PT Karya Solusi Prima Sejahtera",
+      "location": "Tasikmalaya, Jawa Barat",
+      "loc_tier": 0,
+      "similarity": 13.71,
+      "job_kw_count": 4,
+      "probabilitas": 55.26,
+      "ebm_sim_bobot": 99.08,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "routing"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 8,
+      "prompter": 1,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "rest api",
+        "freq": 4
+      },
+      {
+        "skill": "sql",
+        "freq": 4
+      },
+      {
+        "skill": "database",
+        "freq": 4
+      },
+      {
+        "skill": "javascript",
+        "freq": 3
+      },
+      {
+        "skill": "git",
+        "freq": 3
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

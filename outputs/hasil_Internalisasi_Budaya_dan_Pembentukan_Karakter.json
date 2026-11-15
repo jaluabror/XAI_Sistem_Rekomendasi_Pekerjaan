@@ -1,0 +1,277 @@
+{
+  "mata_kuliah": "Internalisasi Budaya dan Pembentukan Karakter",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Data Analytics Intern",
+      "company": "PT Adira Dinamika Multi Finance Tbk",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.48,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "data mining"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Frontend Developer",
+      "company": "PT Norxel Teknologi Indonesia",
+      "location": "Kelapa Gading, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.39,
+      "job_kw_count": 10,
+      "probabilitas": 94.76,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "IT System & Application Internship",
+      "company": "PT. JAYA BERSAMA SAPUTRA PERKASA",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 9.84,
+      "job_kw_count": 10,
+      "probabilitas": 84.91,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Web Developer Intern (Paid Internship)",
+      "company": "PT Tiga Berlian Mandiri",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 9.49,
+      "job_kw_count": 10,
+      "probabilitas": 78.63,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.01,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "angular",
+        "vue",
+        "django"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Indonesia Localization Operations Specialist",
+      "company": "PT KREASI TUNAS CERDAS",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.97,
+      "job_kw_count": 4,
+      "probabilitas": 75.3,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Staff IT Programmer",
+      "company": "PERSEROAN KOMANDITER PELANGI UV",
+      "location": "Waru, Jawa Timur",
+      "loc_tier": 0,
+      "similarity": 9.58,
+      "job_kw_count": 10,
+      "probabilitas": 70.19,
+      "ebm_sim_bobot": 91.5,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.51,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "laravel",
+        "sql",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Internship Quality Assurance",
+      "company": "PT Varnion Technology Semesta",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.04,
+      "job_kw_count": 8,
+      "probabilitas": 66.47,
+      "ebm_sim_bobot": 97.2,
+      "ebm_kw_bobot": 2.57,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "jira"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Team Leader Traning Safety & Technology",
+      "company": "PT Well Harvest Winning Alumina Refinery (WHW AR)",
+      "location": "Ketapang, Kalimantan Barat",
+      "loc_tier": 0,
+      "similarity": 9.73,
+      "job_kw_count": 4,
+      "probabilitas": 60.88,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.55,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "GRC Specialist",
+      "company": "PT Solusi Identitas Global Net",
+      "location": "Sidoarjo, Jawa Timur",
+      "loc_tier": 0,
+      "similarity": 8.93,
+      "job_kw_count": 10,
+      "probabilitas": 58.59,
+      "ebm_sim_bobot": 91.45,
+      "ebm_kw_bobot": 8.04,
+      "ebm_loc_bobot": 0.51,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "devops"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "QA Tester Internship",
+      "company": "PT Aneka Search Indonesia",
+      "location": "Setiabudi, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 8.93,
+      "job_kw_count": 4,
+      "probabilitas": 56.5,
+      "ebm_sim_bobot": 99.37,
+      "ebm_kw_bobot": 0.39,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "jira",
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 6,
+      "consultant": 2,
+      "support": 1,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "javascript",
+        "freq": 3
+      },
+      {
+        "skill": "css",
+        "freq": 3
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      },
+      {
+        "skill": "sql",
+        "freq": 2
+      },
+      {
+        "skill": "laravel",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

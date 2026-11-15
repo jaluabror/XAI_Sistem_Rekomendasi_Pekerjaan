@@ -1,0 +1,281 @@
+{
+  "mata_kuliah": "Pemodelan Proses Bisnis",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Compliance Auditor",
+      "company": "PT Ciptajaya Sejahtera Abadi",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.81,
+      "job_kw_count": 10,
+      "probabilitas": 96.19,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT SAP Business One (Functional)",
+      "company": "PT Susanti Megah",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 18.86,
+      "job_kw_count": 9,
+      "probabilitas": 94.5,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "BUSINESS ANALYST",
+      "company": "PT Yamaha Motor Electronics Indonesia",
+      "location": "Kemayoran, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.06,
+      "job_kw_count": 10,
+      "probabilitas": 85.93,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "agile"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Strategic Digital Development Analyst",
+      "company": "PT Bank Mandiri (PERSERO) Tbk",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.74,
+      "job_kw_count": 7,
+      "probabilitas": 83.91,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "agile"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Data Privacy & Information Security Officer",
+      "company": "PT CIMB Niaga Auto Finance",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 15.92,
+      "job_kw_count": 10,
+      "probabilitas": 79.26,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Full-Stack Engineer",
+      "company": "PT Sigma Digital Nusantara",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 16.71,
+      "job_kw_count": 10,
+      "probabilitas": 78.91,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Web Programmer",
+      "company": "PT. Nuansa Citra Ramantha",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 15.1,
+      "job_kw_count": 10,
+      "probabilitas": 74.48,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "tingkat"
+      ],
+      "match_pct": 1.39,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "typescript",
+        "database",
+        "html"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "IT Project Manager",
+      "company": "PT Mitra Solusi Lelang",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.08,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "System & Automation Officer",
+      "company": "Bintang Pelajar (Bimbingan Belajar)",
+      "location": "Bogor, Jawa Barat",
+      "loc_tier": 1,
+      "similarity": 14.74,
+      "job_kw_count": 10,
+      "probabilitas": 67.34,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "flowchart",
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "System Analyst",
+      "company": "PT JAVAN CIPTA SOLUSI",
+      "location": "Sleman, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 14.14,
+      "job_kw_count": 10,
+      "probabilitas": 63.83,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "bpmn"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 10.0,
+    "role_distribution": {
+      "developer": 4,
+      "analyst": 3,
+      "manager": 3
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "agile",
+        "freq": 2
+      },
+      {
+        "skill": "sdlc",
+        "freq": 2
+      },
+      {
+        "skill": "database",
+        "freq": 2
+      },
+      {
+        "skill": "power bi",
+        "freq": 1
+      },
+      {
+        "skill": "sap",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "bpmn",
+        "freq": 1
+      }
+    ],
+    "top_n": 10
+  }
+}

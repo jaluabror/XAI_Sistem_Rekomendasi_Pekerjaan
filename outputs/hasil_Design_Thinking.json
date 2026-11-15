@@ -1,0 +1,286 @@
+{
+  "mata_kuliah": "DESIGN THINKING",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Full-Stack Engineer",
+      "company": "PT Sigma Digital Nusantara",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 14.3,
+      "job_kw_count": 10,
+      "probabilitas": 91.5,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Functional Consultant",
+      "company": "PT Ocean Digital Innovation",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.2,
+      "job_kw_count": 10,
+      "probabilitas": 84.15,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "oracle",
+        "cloud",
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "ERP SAP B1 Specialist",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.91,
+      "job_kw_count": 10,
+      "probabilitas": 80.95,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT PROJECT SR. OFFICER",
+      "company": "PT Mulia Industrindo, Tbk",
+      "location": "Cikarang",
+      "loc_tier": 0,
+      "similarity": 13.8,
+      "job_kw_count": 10,
+      "probabilitas": 80.89,
+      "ebm_sim_bobot": 91.59,
+      "ebm_kw_bobot": 7.9,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "tableau",
+        "power bi",
+        "agile",
+        "scrum"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Scientist",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.89,
+      "job_kw_count": 10,
+      "probabilitas": 80.74,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "machine learning",
+        "data science"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Dashboard Engineer",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.77,
+      "job_kw_count": 10,
+      "probabilitas": 79.35,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "azure",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "IT Programing",
+      "company": "PT. Kilap Global Group",
+      "location": "Malang, Jawa Timur",
+      "loc_tier": 1,
+      "similarity": 13.08,
+      "job_kw_count": 10,
+      "probabilitas": 77.87,
+      "ebm_sim_bobot": 88.91,
+      "ebm_kw_bobot": 7.67,
+      "ebm_loc_bobot": 3.42,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Solution Analyst",
+      "company": "PT Swadharma Duta Data",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.17,
+      "job_kw_count": 10,
+      "probabilitas": 72.68,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flowchart"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Network Operation Center (NOC)",
+      "company": "PT Cyber Network Indonesia",
+      "location": "Bali",
+      "loc_tier": 0,
+      "similarity": 12.96,
+      "job_kw_count": 7,
+      "probabilitas": 65.47,
+      "ebm_sim_bobot": 98.76,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "linux",
+        "cisco"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Data Analyst",
+      "company": "CV Nio Utaman",
+      "location": "Banjarmasin, Kalimantan Selatan",
+      "loc_tier": 1,
+      "similarity": 11.8,
+      "job_kw_count": 10,
+      "probabilitas": 63.5,
+      "ebm_sim_bobot": 88.88,
+      "ebm_kw_bobot": 7.69,
+      "ebm_loc_bobot": 3.43,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 3,
+      "consultant": 2,
+      "analyst": 2,
+      "manager": 1,
+      "data_scientist": 1,
+      "support": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sql",
+        "freq": 4
+      },
+      {
+        "skill": "erp",
+        "freq": 3
+      },
+      {
+        "skill": "power bi",
+        "freq": 3
+      },
+      {
+        "skill": "tableau",
+        "freq": 2
+      },
+      {
+        "skill": "python",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

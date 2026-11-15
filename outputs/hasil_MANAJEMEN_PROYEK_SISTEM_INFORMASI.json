@@ -1,0 +1,276 @@
+{
+  "mata_kuliah": "MANAJEMEN PROYEK SISTEM INFORMASI",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT PROJECT SR. OFFICER",
+      "company": "PT Mulia Industrindo, Tbk",
+      "location": "Cikarang",
+      "loc_tier": 0,
+      "similarity": 23.61,
+      "job_kw_count": 10,
+      "probabilitas": 86.5,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "tableau",
+        "power bi",
+        "agile",
+        "scrum"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT Data Privacy & Information Security Officer",
+      "company": "PT CIMB Niaga Auto Finance",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 18.87,
+      "job_kw_count": 10,
+      "probabilitas": 81.95,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Surabaya Wordpress Page Developer + Backend Programmer",
+      "company": "PT Ciptadaya Prosperindo",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 18.43,
+      "job_kw_count": 10,
+      "probabilitas": 80.6,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "mysql",
+        "html",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Fresh Graduate UI/UX Designer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.48,
+      "job_kw_count": 6,
+      "probabilitas": 75.82,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Junior Project Manager",
+      "company": "PT MUSTIKA INDAH PERMAI",
+      "location": "Malang, Jawa Timur",
+      "loc_tier": 1,
+      "similarity": 17.59,
+      "job_kw_count": 10,
+      "probabilitas": 73.04,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "agile",
+        "scrum",
+        "jira",
+        "waterfall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Supervisor",
+      "company": "PT. Karta Anugerah Marvel Indonesia",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 14.5,
+      "job_kw_count": 10,
+      "probabilitas": 68.56,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "aws",
+        "azure",
+        "cloud",
+        "linux",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Product Ops",
+      "company": "PT Rajawali Berdikari Indonesia",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.48,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Digital Web Designer",
+      "company": "PT Aneka Dasuib Jaya",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 14.97,
+      "job_kw_count": 8,
+      "probabilitas": 65.98,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "html",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "UX Writer",
+      "company": "PT. Entrepreneur Trust Digital",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.42,
+      "job_kw_count": 7,
+      "probabilitas": 65.36,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Project Coordinator",
+      "company": "PT.AKUI BIRD NEST INDONESIA",
+      "location": "Jombang, Jawa Timur",
+      "loc_tier": 0,
+      "similarity": 15.84,
+      "job_kw_count": 5,
+      "probabilitas": 52.67,
+      "ebm_sim_bobot": 98.49,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "manager": 5,
+      "designer": 3,
+      "developer": 2
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "agile",
+        "freq": 3
+      },
+      {
+        "skill": "scrum",
+        "freq": 3
+      },
+      {
+        "skill": "html",
+        "freq": 2
+      },
+      {
+        "skill": "css",
+        "freq": 2
+      },
+      {
+        "skill": "jira",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

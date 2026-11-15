@@ -1,0 +1,354 @@
+{
+  "mata_kuliah": "IMPLEMENTASI ARSITEKTUR ENTERPRISE",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT Enterprise Architecture",
+      "company": "PT Mandiri Utama Finance",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 21.57,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 2.88,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf"
+      ],
+      "skill_gap": [
+        "uml",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Jr. Consultant Enterprise Architecture (EA)",
+      "company": "PT Imani Prima",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.49,
+      "job_kw_count": 10,
+      "probabilitas": 84.29,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 5.26,
+      "coverage_score": 25.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "togaf"
+      ],
+      "skill_gap": [
+        "uml",
+        "bpmn",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Solution Architect",
+      "company": "PT. 4net Prima Solusi",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.84,
+      "job_kw_count": 10,
+      "probabilitas": 79.34,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 5.0,
+      "coverage_score": 18.18,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "togaf",
+        "erp"
+      ],
+      "skill_gap": [
+        "oracle",
+        "aws",
+        "gcp",
+        "azure",
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Enterprise Architect-RISE (Hiring in Bangkok and Singapore)",
+      "company": "Sinar Mas Group",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.91,
+      "job_kw_count": 9,
+      "probabilitas": 74.55,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 1.05,
+      "coverage_score": 40.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf",
+        "erp"
+      ],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT Planning & Architecture Specialist",
+      "company": "PT Bussan Auto Finance (BAF)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.24,
+      "job_kw_count": 5,
+      "probabilitas": 73.53,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 4.35,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf"
+      ],
+      "skill_gap": [
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Principal Enterprise Architect-RISE-Indonesia",
+      "company": "Sinar Mas Group",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.25,
+      "job_kw_count": 9,
+      "probabilitas": 72.58,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 0.98,
+      "coverage_score": 40.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "togaf",
+        "erp"
+      ],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Middle .NET Programmer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.69,
+      "job_kw_count": 10,
+      "probabilitas": 69.9,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise"
+      ],
+      "match_pct": 4.17,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "docker",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Security Engineer",
+      "company": "PT Intikom Berlian Mustika - Talent Acquisition",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.22,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.84,
+      "ebm_kw_bobot": 7.94,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise"
+      ],
+      "match_pct": 1.38,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database",
+        "cloud",
+        "cybersecurity",
+        "penetration",
+        "wireshark"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Position",
+      "company": "PT Summarecon Agung, Tbk",
+      "location": "Kecamatan Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 12.8,
+      "job_kw_count": 8,
+      "probabilitas": 66.23,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise",
+        "togaf"
+      ],
+      "match_pct": 5.88,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "togaf"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "programming",
+        "machine learning",
+        "data mining"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "(Talent Pool) Digital Solution Architect Associate Manager",
+      "company": "ABeam Consulting Indonesia",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.25,
+      "job_kw_count": 6,
+      "probabilitas": 63.58,
+      "ebm_sim_bobot": 98.99,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "architecture",
+        "enterprise"
+      ],
+      "match_pct": 2.04,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud",
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 22.08,
+    "role_distribution": {
+      "consultant": 6,
+      "developer": 2,
+      "security": 1,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "cloud",
+        "freq": 7
+      },
+      {
+        "skill": "database",
+        "freq": 4
+      },
+      {
+        "skill": "archimate",
+        "freq": 3
+      },
+      {
+        "skill": "sap",
+        "freq": 3
+      },
+      {
+        "skill": "uml",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "togaf",
+        "freq": 7
+      },
+      {
+        "skill": "erp",
+        "freq": 3
+      }
+    ],
+    "top_n": 10
+  }
+}

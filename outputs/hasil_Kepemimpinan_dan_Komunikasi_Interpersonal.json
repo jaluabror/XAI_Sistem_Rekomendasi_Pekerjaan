@@ -1,0 +1,307 @@
+{
+  "mata_kuliah": "Kepemimpinan dan Komunikasi Interpersonal",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Programmer",
+      "company": "PT Handal Guna Sarana",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.61,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "php",
+        "kotlin",
+        "laravel",
+        "database",
+        "android"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT DEVELOPER",
+      "company": "PT Sambal Bakar Indonesia",
+      "location": "Tangerang Selatan, Banten",
+      "loc_tier": 2,
+      "similarity": 13.75,
+      "job_kw_count": 10,
+      "probabilitas": 86.29,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.06,
+      "coverage_score": 7.14,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "erp"
+      ],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "flutter",
+        "laravel",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Software Engineer Trainee",
+      "company": "PT Phincon",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.39,
+      "job_kw_count": 5,
+      "probabilitas": 74.3,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 2.5,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "devops",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Jr. Fullstack Developer",
+      "company": "PT Intikom Berlian Mustika - Talent Acquisition",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.79,
+      "job_kw_count": 10,
+      "probabilitas": 69.99,
+      "ebm_sim_bobot": 91.81,
+      "ebm_kw_bobot": 7.97,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.56,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "golang",
+        "react",
+        "laravel"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Junior Fullstack Developer",
+      "company": "PT Intikom Berlian Mustika - Talent Acquisition",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.52,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.37,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "golang",
+        "react",
+        "laravel"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Staff IT",
+      "company": "PT Toraja Setia Indonesia",
+      "location": "Mauk, Banten",
+      "loc_tier": 0,
+      "similarity": 13.24,
+      "job_kw_count": 7,
+      "probabilitas": 67.49,
+      "ebm_sim_bobot": 98.76,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "cloud"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Back End Developer (Java Springboot) - Loc: Jakarta Utara",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.98,
+      "job_kw_count": 4,
+      "probabilitas": 64.52,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "spring",
+        "programming",
+        "algorithm"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "IT SUPPORT",
+      "company": "CV. King Mortech Motor",
+      "location": "Buleleng, Bali",
+      "loc_tier": 0,
+      "similarity": 11.46,
+      "job_kw_count": 10,
+      "probabilitas": 63.7,
+      "ebm_sim_bobot": 91.57,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "dasar"
+      ],
+      "match_pct": 1.01,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Java Developer",
+      "company": "PT Global Lancesoft Indonesia",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.99,
+      "job_kw_count": 5,
+      "probabilitas": 61.09,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.98,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "spring",
+        "programming",
+        "algorithm"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "IT Programmer/ IT Developer",
+      "company": "PT. Infomedia Nusantara (Telkom Group) Site Jogja & Semarang",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.23,
+      "job_kw_count": 4,
+      "probabilitas": 60.43,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "programming",
+        "sql",
+        "html"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.71,
+    "role_distribution": {
+      "developer": 8,
+      "support": 2
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "php",
+        "freq": 4
+      },
+      {
+        "skill": "laravel",
+        "freq": 4
+      },
+      {
+        "skill": "javascript",
+        "freq": 4
+      },
+      {
+        "skill": "html",
+        "freq": 4
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "erp",
+        "freq": 1
+      }
+    ],
+    "top_n": 10
+  }
+}

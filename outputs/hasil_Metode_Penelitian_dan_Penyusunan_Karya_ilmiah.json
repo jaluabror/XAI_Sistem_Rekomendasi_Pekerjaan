@@ -1,0 +1,274 @@
+{
+  "mata_kuliah": "METODE PENELITIAN DAN PENYUSUNAN KARYA ILMIAH ",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Sistem Analis",
+      "company": "hosting.com",
+      "location": "Malang, Jawa Timur",
+      "loc_tier": 1,
+      "similarity": 16.52,
+      "job_kw_count": 10,
+      "probabilitas": 91.5,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "flutter",
+        "nodejs",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "IT Solution Analyst Intern Corporate IT & IS",
+      "company": "Kompas Gramedia - KG Media",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.34,
+      "job_kw_count": 10,
+      "probabilitas": 87.69,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "System Analyst",
+      "company": "PT Medion Farma Jaya",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 15.37,
+      "job_kw_count": 7,
+      "probabilitas": 81.94,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "STAF IT (TRAINING PROGRAM) (SIT)",
+      "company": "PT Suparma Tbk",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 15.07,
+      "job_kw_count": 5,
+      "probabilitas": 75.74,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT MANAGER",
+      "company": "PT. Trifilosofi Utility Indonesia",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.47,
+      "job_kw_count": 10,
+      "probabilitas": 73.85,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Production Support Downstream - Banking Syariah",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.58,
+      "job_kw_count": 5,
+      "probabilitas": 72.1,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Analis Sistem",
+      "company": "Cozy Kos by Prima Land",
+      "location": "Malang, Jawa Timur",
+      "loc_tier": 1,
+      "similarity": 13.84,
+      "job_kw_count": 10,
+      "probabilitas": 71.58,
+      "ebm_sim_bobot": 88.91,
+      "ebm_kw_bobot": 7.67,
+      "ebm_loc_bobot": 3.42,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "php",
+        "flutter",
+        "nodejs",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Jr. Consultant Enterprise Architecture (EA)",
+      "company": "PT Imani Prima",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.87,
+      "job_kw_count": 10,
+      "probabilitas": 69.38,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "framework"
+      ],
+      "match_pct": 1.89,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "uml",
+        "bpmn",
+        "togaf",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Senior Tester",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 12.75,
+      "job_kw_count": 8,
+      "probabilitas": 64.5,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "framework"
+      ],
+      "match_pct": 3.33,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Teknik Informatika",
+      "company": "Pelayanan Kesehatan",
+      "location": "Samarinda, Kalimantan Timur",
+      "loc_tier": 0,
+      "similarity": 13.11,
+      "job_kw_count": 5,
+      "probabilitas": 51.16,
+      "ebm_sim_bobot": 98.49,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "developer": 4,
+      "analyst": 2,
+      "support": 2,
+      "manager": 1,
+      "consultant": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "javascript",
+        "freq": 2
+      },
+      {
+        "skill": "php",
+        "freq": 2
+      },
+      {
+        "skill": "flutter",
+        "freq": 2
+      },
+      {
+        "skill": "nodejs",
+        "freq": 2
+      },
+      {
+        "skill": "programming",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

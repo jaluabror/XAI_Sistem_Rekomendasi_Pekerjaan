@@ -1,0 +1,268 @@
+{
+  "mata_kuliah": "Capstone Design & Project",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Jr. Consultant Enterprise Architecture (EA)",
+      "company": "PT Imani Prima",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 21.22,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "uml",
+        "bpmn",
+        "togaf",
+        "archimate"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "DATA ANALIS",
+      "company": "MIKALINDO BAKTI CEMERLANG",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.02,
+      "job_kw_count": 10,
+      "probabilitas": 86.2,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Reporting & Data Analyst Staff",
+      "company": "PT SOS Indonesia",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.2,
+      "job_kw_count": 10,
+      "probabilitas": 73.0,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT Officers",
+      "company": "PT Primanru Jaya",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 16.54,
+      "job_kw_count": 9,
+      "probabilitas": 72.6,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT BPA",
+      "company": "PT ELISTEC INFORMATIKA UTAMA",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.3,
+      "job_kw_count": 4,
+      "probabilitas": 70.8,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "System Analyst",
+      "company": "PT Medion Farma Jaya",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 16.49,
+      "job_kw_count": 7,
+      "probabilitas": 68.37,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Data Analyst Staff",
+      "company": "PT Lintas Semesta",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 15.24,
+      "job_kw_count": 9,
+      "probabilitas": 66.5,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "SAP SD",
+      "company": "PT ELISTEC INFORMATIKA UTAMA",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.29,
+      "job_kw_count": 5,
+      "probabilitas": 63.43,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sap"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Data Analyst",
+      "company": "Staffinc",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 15.81,
+      "job_kw_count": 5,
+      "probabilitas": 61.15,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Technical Support",
+      "company": "PT. Trans Berjaya Khatulistiwa",
+      "location": "Cimahi, Jawa Barat",
+      "loc_tier": 0,
+      "similarity": 15.91,
+      "job_kw_count": 5,
+      "probabilitas": 51.65,
+      "ebm_sim_bobot": 98.49,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.54,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "permasalahan"
+      ],
+      "match_pct": 2.33,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "analyst": 4,
+      "developer": 3,
+      "consultant": 1,
+      "manager": 1,
+      "support": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "sap",
+        "freq": 2
+      },
+      {
+        "skill": "uml",
+        "freq": 1
+      },
+      {
+        "skill": "bpmn",
+        "freq": 1
+      },
+      {
+        "skill": "togaf",
+        "freq": 1
+      },
+      {
+        "skill": "archimate",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

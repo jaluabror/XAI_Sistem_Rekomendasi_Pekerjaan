@@ -1,0 +1,295 @@
+{
+  "mata_kuliah": "Komputasi Awan",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Presales (Solution Architect)",
+      "company": "PT. Cyberindo Mega Persada (CBN Cloud)",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.76,
+      "job_kw_count": 10,
+      "probabilitas": 91.68,
+      "ebm_sim_bobot": 91.83,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "cloud"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Analyst – Relaxology & Wellness",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.7,
+      "job_kw_count": 10,
+      "probabilitas": 91.01,
+      "ebm_sim_bobot": 91.83,
+      "ebm_kw_bobot": 7.95,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "GRC Specialist",
+      "company": "PT Solusi Identitas Global Net",
+      "location": "Sidoarjo, Jawa Timur",
+      "loc_tier": 0,
+      "similarity": 12.13,
+      "job_kw_count": 10,
+      "probabilitas": 85.71,
+      "ebm_sim_bobot": 91.58,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "devops"
+      ],
+      "match_pct": 0.58,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "devops"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT Support",
+      "company": "PT. GOTAMA JHAYA SEJAHTRA",
+      "location": "Denpasar, Bali",
+      "loc_tier": 1,
+      "similarity": 12.2,
+      "job_kw_count": 6,
+      "probabilitas": 83.5,
+      "ebm_sim_bobot": 95.57,
+      "ebm_kw_bobot": 0.74,
+      "ebm_loc_bobot": 3.68,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "database",
+        "networking"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Presales",
+      "company": "PT. Gosyen Solusi Indonesia",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.38,
+      "job_kw_count": 10,
+      "probabilitas": 76.62,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 25.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "cloud"
+      ],
+      "skill_gap": [
+        "aws",
+        "networking",
+        "sdlc"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "VP of Information Security",
+      "company": "Tilaka Nusa Teknologi",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.35,
+      "job_kw_count": 10,
+      "probabilitas": 76.3,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "cloud"
+      ],
+      "skill_gap": [
+        "cybersecurity",
+        "cryptography"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "[G08] Talent Pooling: Backend Developer (Golang)",
+      "company": "Bit by Bit Inc",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.32,
+      "job_kw_count": 10,
+      "probabilitas": 75.92,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 16.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "cloud"
+      ],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "postgresql",
+        "mongodb",
+        "microservices"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Junior Low Code Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.28,
+      "job_kw_count": 8,
+      "probabilitas": 71.53,
+      "ebm_sim_bobot": 97.21,
+      "ebm_kw_bobot": 2.55,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Data Analyst / PDCA",
+      "company": "PT. CBA Chemical Industry",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 9.64,
+      "job_kw_count": 9,
+      "probabilitas": 66.5,
+      "ebm_sim_bobot": 95.68,
+      "ebm_kw_bobot": 4.09,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Hardware & Networking Support Staff",
+      "company": "PT Sinergi Prakarsa Utama",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 9.9,
+      "job_kw_count": 6,
+      "probabilitas": 63.35,
+      "ebm_sim_bobot": 98.98,
+      "ebm_kw_bobot": 0.78,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "mikrotik",
+        "routing"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 27.5,
+    "role_distribution": {
+      "developer": 3,
+      "consultant": 2,
+      "analyst": 2,
+      "support": 2,
+      "manager": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 2
+      },
+      {
+        "skill": "sql",
+        "freq": 2
+      },
+      {
+        "skill": "networking",
+        "freq": 2
+      },
+      {
+        "skill": "aws",
+        "freq": 1
+      },
+      {
+        "skill": "sdlc",
+        "freq": 1
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "cloud",
+        "freq": 4
+      },
+      {
+        "skill": "devops",
+        "freq": 1
+      }
+    ],
+    "top_n": 10
+  }
+}

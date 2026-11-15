@@ -1,0 +1,302 @@
+{
+  "mata_kuliah": "Kecerdasan Artifisial dan Penerapannya",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Middle AI Prompter",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 23.36,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Artificial Intelligence Manager",
+      "company": "PT. TRANSNOVASI BANGUN PERSADA",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.7,
+      "job_kw_count": 10,
+      "probabilitas": 79.48,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 7.69,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "machine learning"
+      ],
+      "skill_gap": [
+        "python",
+        "java",
+        "database",
+        "aws",
+        "azure"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Odoo Analyst and AI Engineer",
+      "company": "PT. Central Proteina Prima, Tbk",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 20.23,
+      "job_kw_count": 6,
+      "probabilitas": 73.97,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 33.33,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "machine learning"
+      ],
+      "skill_gap": [
+        "erp",
+        "odoo"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "AI Solutions Engineer | Technology Industry | Jakarta (WFO)",
+      "company": "RM Staffing B.V.",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.48,
+      "job_kw_count": 10,
+      "probabilitas": 73.77,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 14.29,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "machine learning"
+      ],
+      "skill_gap": [
+        "python",
+        "database",
+        "docker",
+        "linux",
+        "git"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "IT System Analyst",
+      "company": "PT ROYAL MEDICALINK PHARMALAB",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.07,
+      "job_kw_count": 10,
+      "probabilitas": 71.89,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "react",
+        "laravel",
+        "sql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Junior Low Code Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 18.76,
+      "job_kw_count": 8,
+      "probabilitas": 71.09,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "rest api"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Full Stack",
+      "company": "Goodeva Technology",
+      "location": "DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 18.69,
+      "job_kw_count": 10,
+      "probabilitas": 69.79,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "machine learning"
+      ],
+      "skill_gap": [
+        "python",
+        "database",
+        "data science",
+        "web development"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Fresh Graduate AI Prompter",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 19.67,
+      "job_kw_count": 5,
+      "probabilitas": 69.35,
+      "ebm_sim_bobot": 98.79,
+      "ebm_kw_bobot": 0.97,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "data analysis"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Full Stack Developer",
+      "company": "Goodeva Technology",
+      "location": "DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 17.65,
+      "job_kw_count": 10,
+      "probabilitas": 64.96,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 12.5,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "machine learning"
+      ],
+      "skill_gap": [
+        "python",
+        "react",
+        "django",
+        "mysql",
+        "postgresql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Business System Analyst",
+      "company": "PT Citarasa Kuliner Indonesia (Cimol Bojot AA)",
+      "location": "Bandung Barat, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 17.34,
+      "job_kw_count": 8,
+      "probabilitas": 64.5,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "erp",
+        "odoo"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 8.78,
+    "role_distribution": {
+      "developer": 4,
+      "prompter": 2,
+      "data_scientist": 2,
+      "analyst": 2
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 5
+      },
+      {
+        "skill": "python",
+        "freq": 4
+      },
+      {
+        "skill": "cloud",
+        "freq": 2
+      },
+      {
+        "skill": "data science",
+        "freq": 2
+      },
+      {
+        "skill": "erp",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "machine learning",
+        "freq": 5
+      }
+    ],
+    "top_n": 10
+  }
+}

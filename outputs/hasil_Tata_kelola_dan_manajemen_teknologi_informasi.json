@@ -1,0 +1,294 @@
+{
+  "mata_kuliah": "Tata Kelola dan Manajemen Teknologi Informasi",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "IT Policy & Governance",
+      "company": "PT Mandiri Utama Finance",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 27.99,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "cobit"
+      ],
+      "match_pct": 1.16,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "cobit"
+      ],
+      "skill_gap": [
+        "togaf"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Governance Oficer",
+      "company": "PT Inovasi Digital Threesixty",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 17.89,
+      "job_kw_count": 10,
+      "probabilitas": 76.28,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "praktik"
+      ],
+      "match_pct": 0.93,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Staf IT - Cabang Semarang",
+      "company": "PT PERMODALAN NASIONAL MADANI",
+      "location": "Semarang, Jawa Tengah",
+      "loc_tier": 2,
+      "similarity": 17.81,
+      "job_kw_count": 10,
+      "probabilitas": 76.11,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Senior Solution Architecture (Financial Services)",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.79,
+      "job_kw_count": 10,
+      "probabilitas": 74.08,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "aws",
+        "gcp",
+        "azure",
+        "cloud",
+        "docker"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Data Architect",
+      "company": "hosting.com",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 16.65,
+      "job_kw_count": 10,
+      "probabilitas": 73.8,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "IT Security Staff",
+      "company": "PT KREDIT PLUS TEKNOLOGI",
+      "location": "Tangerang, Banten",
+      "loc_tier": 2,
+      "similarity": 16.54,
+      "job_kw_count": 10,
+      "probabilitas": 73.57,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "programming",
+        "firewall"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "IT INFRASTRUCTURE PLANNING - IT GOVERNANCE STAFF",
+      "company": "PT Yamaha Motor Electronics Indonesia",
+      "location": "Pulo Gadung, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.51,
+      "job_kw_count": 10,
+      "probabilitas": 71.51,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "cobit",
+        "praktik"
+      ],
+      "match_pct": 2.67,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "cobit"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Data Engineer",
+      "company": "PT Murni Development Indonesia",
+      "location": "Kalideres, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 15.18,
+      "job_kw_count": 10,
+      "probabilitas": 70.86,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "scala",
+        "sql",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "IT Governance, Risk & Compliance (IT GRC)",
+      "company": "PT ABISHAR TECHNOLOGIES INDONESIA",
+      "location": "Jakarta Selatan, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.01,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "cobit"
+      ],
+      "match_pct": 1.59,
+      "coverage_score": 100.0,
+      "coverage_grade": "Tinggi",
+      "skill_tercover": [
+        "cobit"
+      ],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "GRC Specialist",
+      "company": "PT Solusi Identitas Global Net",
+      "location": "Sidoarjo, Jawa Timur",
+      "loc_tier": 0,
+      "similarity": 14.96,
+      "job_kw_count": 10,
+      "probabilitas": 60.41,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "devops"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 25.0,
+    "role_distribution": {
+      "developer": 3,
+      "support": 2,
+      "consultant": 2,
+      "data_engineer": 2,
+      "security": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "cloud",
+        "freq": 3
+      },
+      {
+        "skill": "togaf",
+        "freq": 2
+      },
+      {
+        "skill": "aws",
+        "freq": 2
+      },
+      {
+        "skill": "azure",
+        "freq": 2
+      },
+      {
+        "skill": "sql",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "cobit",
+        "freq": 3
+      }
+    ],
+    "top_n": 10
+  }
+}

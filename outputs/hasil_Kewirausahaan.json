@@ -1,0 +1,290 @@
+{
+  "mata_kuliah": "Kewirausahaan",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "AI Innovation & Automation Lead",
+      "company": "PT Interior Design Indo",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 17.73,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mindset",
+        "waktu"
+      ],
+      "match_pct": 0.78,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "odoo"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Data Analyst",
+      "company": "PT Internet Mulia Untuk Negeri (NEXA)",
+      "location": "Semarang, Jawa Tengah",
+      "loc_tier": 2,
+      "similarity": 16.79,
+      "job_kw_count": 10,
+      "probabilitas": 91.11,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "sql",
+        "tableau",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Supervisor IT Software",
+      "company": "nan",
+      "location": "Klaten, Jawa Tengah",
+      "loc_tier": 0,
+      "similarity": 16.57,
+      "job_kw_count": 10,
+      "probabilitas": 79.83,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "laravel",
+        "nodejs",
+        "sql",
+        "git",
+        "jira"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "IT PROGRAMER STAFF",
+      "company": "PT Agres Info Teknologi",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 14.41,
+      "job_kw_count": 10,
+      "probabilitas": 77.53,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "golang",
+        "algorithm",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Head of ePartner Network Activation",
+      "company": "PT Elangsung International Agency",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.75,
+      "job_kw_count": 10,
+      "probabilitas": 73.74,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mindset"
+      ],
+      "match_pct": 0.41,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Programmer",
+      "company": "PT Macanan Jaya Cemerlang",
+      "location": "Klaten, Jawa Tengah",
+      "loc_tier": 0,
+      "similarity": 14.95,
+      "job_kw_count": 10,
+      "probabilitas": 70.59,
+      "ebm_sim_bobot": 91.61,
+      "ebm_kw_bobot": 7.89,
+      "ebm_loc_bobot": 0.5,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "laravel",
+        "nodejs",
+        "sql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Data Analyst – Relaxology & Wellness",
+      "company": "nan",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.83,
+      "job_kw_count": 10,
+      "probabilitas": 68.5,
+      "ebm_sim_bobot": 91.85,
+      "ebm_kw_bobot": 7.93,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Digital Support Staff",
+      "company": "Cimory Group",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.45,
+      "job_kw_count": 6,
+      "probabilitas": 64.03,
+      "ebm_sim_bobot": 98.99,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "media"
+      ],
+      "match_pct": 1.08,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Front End Developer",
+      "company": "PT Finansia Multi Finance (Kredit Plus)",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 12.91,
+      "job_kw_count": 7,
+      "probabilitas": 62.95,
+      "ebm_sim_bobot": 99.06,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "git",
+        "html",
+        "css"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Business Analyst",
+      "company": "Orang Tua Group",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 13.21,
+      "job_kw_count": 6,
+      "probabilitas": 62.63,
+      "ebm_sim_bobot": 98.99,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [],
+      "match_pct": 0.0,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "devops",
+        "agile"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 0.0,
+    "role_distribution": {
+      "manager": 3,
+      "analyst": 3,
+      "developer": 3,
+      "support": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "python",
+        "freq": 3
+      },
+      {
+        "skill": "sql",
+        "freq": 3
+      },
+      {
+        "skill": "database",
+        "freq": 3
+      },
+      {
+        "skill": "laravel",
+        "freq": 2
+      },
+      {
+        "skill": "nodejs",
+        "freq": 2
+      }
+    ],
+    "skill_match_top5": [],
+    "top_n": 10
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "mata_kuliah": "Analisis dan Perancangan Sistem Informasi",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Programmer (Internship)",
+      "company": "PT Nusantara Compnet Integrator",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 11.2,
+      "job_kw_count": 10,
+      "probabilitas": 96.5,
+      "ebm_sim_bobot": 91.82,
+      "ebm_kw_bobot": 7.96,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "diagram",
+        "software"
+      ],
+      "match_pct": 3.51,
+      "coverage_score": 10.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "uml"
+      ],
+      "skill_gap": [
+        "python",
+        "javascript",
+        "php",
+        "programming",
+        "mysql"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Technical Lead",
+      "company": "PT DAnS Multi Pro",
+      "location": "Kebayoran Lama, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.73,
+      "job_kw_count": 9,
+      "probabilitas": 85.95,
+      "ebm_sim_bobot": 95.7,
+      "ebm_kw_bobot": 4.07,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 0.63,
+      "coverage_score": 7.14,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "uml"
+      ],
+      "skill_gap": [
+        "java",
+        "programming",
+        "mysql",
+        "mongodb",
+        "oracle"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "System Analyst (Fresh Graduate)",
+      "company": "PT Hashmicro Solusi Indonesia",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.46,
+      "job_kw_count": 10,
+      "probabilitas": 82.89,
+      "ebm_sim_bobot": 91.79,
+      "ebm_kw_bobot": 7.99,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 0.69,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "php",
+        "programming",
+        "sql",
+        "database"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Java Developer",
+      "company": "PT Karya Solusi Prima Sejahtera",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 10.32,
+      "job_kw_count": 9,
+      "probabilitas": 78.34,
+      "ebm_sim_bobot": 95.69,
+      "ebm_kw_bobot": 4.08,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 1.52,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "sql",
+        "mysql",
+        "oracle",
+        "aws"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "STAF IT (TRAINING PROGRAM) (SIT)",
+      "company": "PT Suparma Tbk",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 10.42,
+      "job_kw_count": 5,
+      "probabilitas": 72.32,
+      "ebm_sim_bobot": 98.78,
+      "ebm_kw_bobot": 0.98,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "infrastructure",
+        "software"
+      ],
+      "match_pct": 8.33,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Technical Writer",
+      "company": "PT Sarana Makin Mulya",
+      "location": "Bandung Barat, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 9.77,
+      "job_kw_count": 10,
+      "probabilitas": 70.3,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "diagram"
+      ],
+      "match_pct": 1.45,
+      "coverage_score": 50.0,
+      "coverage_grade": "Sedang",
+      "skill_tercover": [
+        "uml"
+      ],
+      "skill_gap": [
+        "flowchart"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Fullstack Developer (Java Springboot, angular.Js)",
+      "company": "PT. SIGMA GLOBAL TEKNOLOGI (SIGMATECH)",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.72,
+      "job_kw_count": 10,
+      "probabilitas": 69.43,
+      "ebm_sim_bobot": 91.77,
+      "ebm_kw_bobot": 8.0,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 0.65,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "java",
+        "javascript",
+        "react",
+        "angular",
+        "spring"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "System Management Supervisor",
+      "company": "PT LUCKY MOM INDONESIA",
+      "location": "Jakarta Utara, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.67,
+      "job_kw_count": 9,
+      "probabilitas": 66.5,
+      "ebm_sim_bobot": 95.68,
+      "ebm_kw_bobot": 4.09,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 1.04,
+      "coverage_score": 7.14,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "uml"
+      ],
+      "skill_gap": [
+        "sql",
+        "oracle",
+        "database",
+        "data analysis",
+        "power bi"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "System Analyst (Contract Base)",
+      "company": "PT Mitra Solusi Telematika",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.76,
+      "job_kw_count": 7,
+      "probabilitas": 64.19,
+      "ebm_sim_bobot": 99.06,
+      "ebm_kw_bobot": 0.71,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 1.33,
+      "coverage_score": 20.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "uml"
+      ],
+      "skill_gap": [
+        "sql",
+        "database",
+        "sdlc",
+        "bpmn"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "System Analyst",
+      "company": "PT Akhdani Reka Solusi",
+      "location": "Kemayoran, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 9.73,
+      "job_kw_count": 4,
+      "probabilitas": 57.49,
+      "ebm_sim_bobot": 99.38,
+      "ebm_kw_bobot": 0.38,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "software"
+      ],
+      "match_pct": 0.98,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "programming",
+        "sql",
+        "agile",
+        "sdlc",
+        "business analysis"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 9.43,
+    "role_distribution": {
+      "developer": 4,
+      "analyst": 3,
+      "manager": 2,
+      "support": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "database",
+        "freq": 6
+      },
+      {
+        "skill": "sql",
+        "freq": 5
+      },
+      {
+        "skill": "programming",
+        "freq": 4
+      },
+      {
+        "skill": "mysql",
+        "freq": 4
+      },
+      {
+        "skill": "java",
+        "freq": 4
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "uml",
+        "freq": 5
+      }
+    ],
+    "top_n": 10
+  }
+}

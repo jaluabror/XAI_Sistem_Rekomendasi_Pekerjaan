@@ -1,0 +1,317 @@
+{
+  "mata_kuliah": "Pengembangan Aplikasi Bergerak",
+  "top_jobs": [
+    {
+      "rank": 1,
+      "title": "Mobile Apps Developer (Flutter)",
+      "company": "PT Vita Shopindo",
+      "location": "Jakarta Barat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 27.12,
+      "job_kw_count": 10,
+      "probabilitas": 96.08,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 1.67,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flutter",
+        "git"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 2,
+      "title": "Mobile Developer - Ionic",
+      "company": "PT Sentra Vidya Utama",
+      "location": "Surabaya, Jawa Timur",
+      "loc_tier": 2,
+      "similarity": 27.18,
+      "job_kw_count": 9,
+      "probabilitas": 94.5,
+      "ebm_sim_bobot": 95.73,
+      "ebm_kw_bobot": 4.04,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 1.96,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "kotlin",
+        "swift",
+        "git",
+        "android",
+        "ios"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 3,
+      "title": "Staff IT",
+      "company": "PT Sapta Saritama",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 27.04,
+      "job_kw_count": 8,
+      "probabilitas": 91.47,
+      "ebm_sim_bobot": 97.24,
+      "ebm_kw_bobot": 2.53,
+      "ebm_loc_bobot": 0.23,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 3.45,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "flutter",
+        "android",
+        "ios"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 4,
+      "title": "Middle Mobile Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 25.72,
+      "job_kw_count": 10,
+      "probabilitas": 85.02,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 2.13,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 5,
+      "title": "Mobile Developer (Flutter)",
+      "company": "nan",
+      "location": "Jakarta Timur, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 26.4,
+      "job_kw_count": 7,
+      "probabilitas": 84.37,
+      "ebm_sim_bobot": 99.07,
+      "ebm_kw_bobot": 0.7,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 1.89,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "kotlin",
+        "flutter",
+        "git",
+        "rest api",
+        "android"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 6,
+      "title": "Mobile App Flutter Developer (Internship)",
+      "company": "PT Lincah Cipta Harapan",
+      "location": "Bandung, Jawa Barat",
+      "loc_tier": 2,
+      "similarity": 24.2,
+      "job_kw_count": 10,
+      "probabilitas": 73.0,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 1.72,
+      "coverage_score": 16.67,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [
+        "mobile development"
+      ],
+      "skill_gap": [
+        "flutter",
+        "git",
+        "rest api",
+        "android",
+        "ios"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 7,
+      "title": "Senior Full Stack Engineer",
+      "company": "PT INTAN PARIWARA",
+      "location": "Yogyakarta, DI Yogyakarta",
+      "loc_tier": 1,
+      "similarity": 24.5,
+      "job_kw_count": 10,
+      "probabilitas": 70.33,
+      "ebm_sim_bobot": 88.92,
+      "ebm_kw_bobot": 7.66,
+      "ebm_loc_bobot": 3.41,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 2.44,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "python",
+        "java",
+        "javascript",
+        "kotlin",
+        "swift"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 8,
+      "title": "Senior Mobile Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 23.85,
+      "job_kw_count": 10,
+      "probabilitas": 70.24,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 2.22,
+      "coverage_score": 0,
+      "coverage_grade": "N/A",
+      "skill_tercover": [],
+      "skill_gap": [],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 9,
+      "title": "Mobile Developer (Flutter / Ionic / React Native)",
+      "company": "PT Cycent Inovasi Kaizen",
+      "location": "Jakarta Pusat, Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 23.84,
+      "job_kw_count": 10,
+      "probabilitas": 70.13,
+      "ebm_sim_bobot": 91.87,
+      "ebm_kw_bobot": 7.92,
+      "ebm_loc_bobot": 0.22,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 1.09,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "javascript",
+        "react",
+        "angular",
+        "flutter",
+        "typescript"
+      ],
+      "role_detected": "N/A"
+    },
+    {
+      "rank": 10,
+      "title": "Fresh Graduate Mobile Developer",
+      "company": "PT Niaga Manajemen Citra",
+      "location": "Jakarta Raya",
+      "loc_tier": 2,
+      "similarity": 23.63,
+      "job_kw_count": 6,
+      "probabilitas": 60.5,
+      "ebm_sim_bobot": 99.0,
+      "ebm_kw_bobot": 0.77,
+      "ebm_loc_bobot": 0.24,
+      "faktor_dominan": "kemiripan skill",
+      "skill_match": [
+        "mobile"
+      ],
+      "match_pct": 2.94,
+      "coverage_score": 0.0,
+      "coverage_grade": "Rendah",
+      "skill_tercover": [],
+      "skill_gap": [
+        "kotlin",
+        "swift",
+        "react",
+        "flutter",
+        "programming"
+      ],
+      "role_detected": "N/A"
+    }
+  ],
+  "pattern": {
+    "avg_coverage": 1.67,
+    "role_distribution": {
+      "mobile_developer": 8,
+      "support": 1,
+      "developer": 1
+    },
+    "skill_gap_top5": [
+      {
+        "skill": "flutter",
+        "freq": 7
+      },
+      {
+        "skill": "git",
+        "freq": 5
+      },
+      {
+        "skill": "android",
+        "freq": 5
+      },
+      {
+        "skill": "ios",
+        "freq": 5
+      },
+      {
+        "skill": "kotlin",
+        "freq": 4
+      }
+    ],
+    "skill_match_top5": [
+      {
+        "skill": "mobile development",
+        "freq": 1
+      }
+    ],
+    "top_n": 10
+  }
+}
